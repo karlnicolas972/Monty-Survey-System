@@ -1,0 +1,98 @@
+{% extends "base.html" %} {% block content %}
+
+    <link rel="stylesheet" href="../static/main.css">
+    <script src="../static/Chart.js"></script>
+    <div class="content-wrapper col-md-8 col-sm-10">
+        <h1>{{ title }}</h1>
+
+        <!-- Multiple choice questions -->
+        {% if mc_question_list %}
+            <h3>Multiple choice questions</h3>
+            {% for q in mc_question_list %}
+                <p><i>{{loop.index}}. {{ q.get_question() }}</i></p>
+                <b><i id="{{ q.get_question_id() }}-not-filled-out" class="text-warning"></i></b>
+                <canvas id="chart-for-{{q.get_question_id() }}" width="400" height="200"></canvas>
+                <br><br>
+                {% for k in all_answers_dict[q.get_question_id()].keys() %}
+                    <p id="{{ q.get_question_id() }}_{{ loop.index }}" hidden>{{k}}</p>
+                    <p id="{{ q.get_question_id() }}#{{ loop.index }}" hidden>{{all_answers_dict[q.get_question_id()][k]}}</p>
+                {% endfor %}
+            {% endfor %}
+        {% endif %}
+
+        <!-- Open ended questions -->
+        {% if open_question_list %}
+            <h3>Open-ended questions</h3>
+            {% for q in open_question_list %}
+                <p><i>{{loop.index}}. {{ q.get_question() }}</i></p>
+                <p>Student responses:</p>
+                <b><i id="{{ q.get_question_id() }}-not-filled-out" class="text-warning"></i></b>
+                {% for a in q.get_answers() %}
+                    {% if a.get_survey_id() == survey_id %}
+                        <p id="open-answer-{{ a.get_answer_id() }}" class="open-answer">"{{ a.get_answer() }}"</p>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        {% endif %}
+    </div> <!-- content-wrapper -->
+
+    <script>
+
+    //Loop and make a chart for each question
+    for (i = 1; i < 100; i++){
+        //Get the labels for the bar chart columns.
+        //This is done by reading the innerHTML from hidden spans above in HTML
+        //(e.g. 2_1, for question 2 answer 1)
+        qid1 = i + "_" + "1";
+        qid2 = i + "_" + "2";
+        qid3 = i + "_" + "3";
+        qid4 = i + "_" + "4";
+
+        //If one id doesn't exist, the rest won't either, so skip a loop
+        var myElem = document.getElementById(qid1);
+        if (myElem === null) {continue;}
+            label1 = document.getElementById(qid1).innerHTML;
+            label2 = document.getElementById(qid2).innerHTML;
+            label3 = document.getElementById(qid3).innerHTML;
+            label4 = document.getElementById(qid4).innerHTML;
+
+        //Get the values(number of responses) for the bar chart columns.
+        //This is done by reading the innerHTML from hidden spans above in HTML
+        //(e.g. 2#1, for question 2 answer 1)
+        value_id1 = i + "#" + "1";
+        value_id2 = i + "#" + "2";
+        value_id3 = i + "#" + "3";
+        value_id4 = i + "#" + "4";
+        value1 = document.getElementById(value_id1).innerHTML;
+        value2 = document.getElementById(value_id2).innerHTML;
+        value3 = document.getElementById(value_id3).innerHTML;
+        value4 = document.getElementById(value_id4).innerHTML;
+        var chartId = "chart-for-" + i;
+
+        //If the survey has not received responses, warn user and set chart height to zero
+        if (value1 == 0 && value2 == 0 && value3 == 0 && value4 == 0){
+            var checkId = i + "-not-filled-out";
+            document.getElementById(checkId).innerHTML = "This question has not received any reponses yet";
+            document.getElementById(chartId).height = 1;
+        }
+
+        //Chart 
+        var ctx = document.getElementById(chartId).getContext('2d');
+        var myChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: [label1, label2, label3, label4],
+            datasets: [{
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(54, 162, 235, 0.5)',
+                'rgba(255, 206, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)',
+            ],
+            data: [value1, value2, value3, value4]
+            }]
+        }   
+        });
+    }
+    </script>
+{% endblock %}

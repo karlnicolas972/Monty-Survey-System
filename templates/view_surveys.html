@@ -1,0 +1,61 @@
+{% extends "base.html" %} {% block content %}
+
+<div class="content-wrapper col-md-8 col-sm-10">
+
+    <h1> View Surveys </h1> 
+    {% if survey_list %} 
+
+        {% with messages = get_flashed_messages() %} 
+            {% if messages %} 
+                {% for message in messages %}
+                    <span style="padding-bottom: 30px"><b><i>{{ message }}</i></b></span> 
+                {% endfor %}
+            {% endif %} 
+        {% endwith %}
+
+        <p>Below is a list of open surveys. To view a survey, please click its corresponding link.</p>
+
+        <div class="list-group">
+
+            {% for s in survey_list %} 
+
+                {% if s.get_status() != "closed" %}
+
+                    <div id="{{ s.get_survey_id() }}" class="list-group-item">
+                        <a href="{{ url_for('survey', id_num=s.get_survey_id()) }}" style="float: left;">Survey for {{ s.get_course_str() }}</a> 
+
+                        {% if user.is_admin() %}
+
+                        <form action="{{ url_for('close_entry') }}" method=post class=close-entry onclick="deleteRow({{ s.get_survey_id() }})">
+                            <input type="hidden" name="entry_id" value="{{ s.get_survey_id() }}">
+                            <input type="submit" value="Close this survey" class="btn btn-default" style="float: right; background-color: #dc3545" />
+                        </form>
+
+                        {% endif %} 
+                    </div>     
+
+                {% endif %} 
+
+            {% endfor %}
+
+        </div>
+
+    {% else %}
+
+      <p style="text-align: center;">You currently don't have any surveys created. Click <a href="{{ url_for('view_questions') }}">here</a> to get started.</p>
+
+    {% endif %}
+
+</div>
+
+<script type="text/javascript">
+    function deleteRow(id) {
+
+        row = document.getElementById(id);
+        row.style.display = "none";
+
+    }
+
+</script>
+
+{% endblock %}

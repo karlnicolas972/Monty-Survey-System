@@ -1,0 +1,117 @@
+/*BASE.HTML*/
+
+#montynav {
+	padding-left: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 0px;
+	font-size: 1.2em;
+}
+
+#monty-brand{
+	font-size: 1.3em;
+}
+
+#logout-btn{
+	-webkit-appearance: none;
+}
+
+hr {
+	margin-top: 0px;
+}
+
+html {
+    font-size: 1em;
+}
+
+h1 {
+	font-size: 1.3em;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.2em;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+h3 {
+	font-size: 1.2em;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+nav li {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#login-body {
+	background-image: url("/static/unsw.jpg");
+	background-size: cover;
+}
+
+body, html {
+    height: 100%;
+}
+
+/*LOGIN*/
+
+#login-box {
+	height: auto;
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	width: 30%;
+	border-radius: 5px;
+	margin: auto;
+	margin-top: 100px;
+	/*float: right;*/
+}
+
+#login-title{
+	width: auto;
+	margin: auto;
+	color: #007bff;
+	text-align: center;
+}
+
+#login-formgroup{
+	width: auto;
+	margin: auto;
+}
+
+.submit-btn{
+	text-align: center;
+	margin: auto;
+}
+
+/*LOGIN ^^^*/
+
+/*ADD QUESTION*/
+
+.content-wrapper{
+	width: auto;
+	margin: auto;
+}
+
+#answer-formgroup{
+	width: auto;
+	margin: auto;
+}
+
+.btn-default{
+	color: white;
+	background-color: #007bff;
+}
+
+/*INDEX*/
+
+.index-content{
+	text-align: center;
+}
+
+
+
+

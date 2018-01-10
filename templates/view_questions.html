@@ -1,0 +1,121 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="content-wrapper col-md-8 col-sm-10">
+
+	<h1>Create Survey / View Questions</h1>
+
+	{% if open_question_list or mc_question_list %}
+
+		{% with messages = get_flashed_messages() %}
+			{% if messages %}
+				{% for message in messages %}
+					<b class="text-warning"><i>{{ message }}</i></b>
+				{% endfor %}
+			{% endif %}
+		{% endwith %}
+
+		<p>To create a survey, please select the course offering for which you are doing a survey of, and tick all the questions you would like to include for your survey.</p>
+
+		<div style="padding-bottom: 10px">
+		<b>Course Offering: </b>
+			<select name="course" form="create_survey">
+				{% for c in courses_list %}
+					<option value="{{ c.get_course_name_and_sem() }}">{{ c.get_course_name_and_sem() }}</option>
+				{% endfor %}
+			</select>
+		</div>
+
+		<form name="create_survey_form" id="create_survey" method="POST">
+
+			<input type="hidden" id="selected_questions" name="selected_questions" value="">
+
+			<h3>Open Ended Questions</h3>
+
+			<br>
+
+			{% if open_question_list %}
+
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th>Question</th>
+						<th>Question Type</th>
+						<th>Add to survey?</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for q in open_question_list %}
+					<tr>
+						<td><label for="q">{{ q.get_question() }}</label></td>
+						<td><p class="capitalize" style="text-transform: capitalize;">{{ q.get_question_type() }}</p></td>
+						<td><input type="checkbox" id="question_{{ q.get_question_id() }}" name="question_{{ q.get_question_id() }}" onclick="document.create_survey_form.selected_questions.value+=' {{ q.get_question_id() }} '" value="{{ q.get_question() }}"></td>
+					</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+
+
+			{% else %}
+
+			<p>You currently have no open ended questions added. Click <a href="{{ url_for('add_question') }}">here</a> to get started. </p>
+
+			{% endif %}
+
+			<h3>Multiple Choice Questions</h3>
+
+			{% if mc_question_list %}
+
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th>Question</th>
+							<th>Question Type</th>
+							<th>Add to survey?</th>
+						</tr>
+					</thead>
+					<tbody>
+						{% for q in mc_question_list %}
+						<tr>
+							<td>
+								<label for="q"><b>{{ q.get_question() }}</b></label>
+								<ul style="list-style-type: none; padding-left: 0px;">
+									<li>a) {{ q.get_answer_1() }}</li>
+									<li>b) {{ q.get_answer_2() }}</li>
+									<li>c) {{ q.get_answer_3() }}</li>
+									<li>d) {{ q.get_answer_4() }}</li>
+								</ul>
+							</td>
+							<td>
+								<p class="capitalize" style="text-transform: capitalize;">{{ q.get_question_type() }}</p>
+							</td>
+							<td>
+								<input type="checkbox" id="question_{{ q.get_question_id() }}" name="question_{{ q.get_question_id() }}" onclick="document.create_survey_form.selected_questions.value+=' {{ q.get_question_id() }} '" value="{{ q.get_question() }}">
+							</td>
+						</tr>
+						{% endfor %}
+					</tbody>
+				</table>
+
+			{% else %}
+
+				<p> You currently have no multiple choice questions added. Click <a href="{{ url_for('add_question') }}">here</a> to get started.</p>
+
+			{% endif %}
+
+			<!-- <input type="submit" value="Create Survey!"> -->
+
+			<button type="submit" value="Create Survey!" class="submit-btn btn btn-default">Submit!</button>
+
+		</form>
+
+	{% else %}
+
+		<p style="text-align: center;"> You currently have no questions added. Click <a href="{{ url_for('add_question') }}">here</a> to get started.</p>
+
+	{% endif %}
+
+</div>
+
+{% endblock %}

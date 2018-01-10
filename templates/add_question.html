@@ -1,0 +1,65 @@
+{% extends "base.html" %} {% block content %}
+
+    <div class="content-wrapper col-md-8 col-sm-10">
+        <h1>Add a Question</h1>
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            {% for message in messages %}
+                <b><i class="text-warning">{{ message }}</i></b><br>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+
+    <div class="form-group" id="answer-formgroup">
+        <form name="get_question" method="POST">
+            <b>Which type of question are you looking to add?</b>&nbsp
+            <input type="radio" name="question_type" value="optional" checked><i> Optional </i>
+            <input type="radio" name="question_type" value="mandatory"><i> Mandatory </i>
+            <br>
+            <b>How should the question be answered?</b>&nbsp
+            <input type="radio" name="response_type" value="multiple_choice" checked onclick="showAnswers()"><i> Multiple Choice </i>
+            <input type="radio" name="response_type" value="open_ended" onclick="hideAnswers()"><i> Open Ended </i>
+            <br>
+            <br>
+            <div class="input-group">
+                <span class="input-group-addon"> <span>Question</span></span>
+                <input class="form-control" type="textfield" name="question" value="">
+            </div>
+            <br>
+            <div id="all_mc_answers">
+                <div class="input-group">
+                    <span class="input-group-addon"> <span>Answer 1</span></span>
+                    <input class="form-control" type="textfield" name="ans_1" value="">
+                </div>
+                <br>
+                <div class="input-group">
+                    <span class="input-group-addon"> <span>Answer 2</span></span>
+                    <input class="form-control" type="textfield" name="ans_2" value="">
+                </div>
+                <br>
+                <div class="input-group" id="answer_3">
+                    <span class="input-group-addon"> <span>Answer 3</span></span>
+                    <input class="form-control" type="textfield" name="ans_3" value="">
+                </div>
+                <br>
+                <div class="input-group">
+                    <span class="input-group-addon"> <span>Answer 4</span></span>
+                    <input class="form-control" type="textfield" name="ans_4" value="">
+                </div>
+                </div> <!--"all_mc_answers"-->
+                <br>
+                <button id="submit-q" type="submit" name="submit" class="submit-btn btn btn-default">Submit!</button>
+            </form>
+            </div> <!--form-group-->
+        </div>
+
+        <script>
+            function hideAnswers() {
+                document.getElementById("all_mc_answers").style.display = "none";
+            }
+            function showAnswers() {
+                document.getElementById("all_mc_answers").style.display = "block";
+            }
+        </script>
+        
+    {% endblock %}

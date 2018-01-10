@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>8</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>384</x>
+      <y>352</y>
+      <w>320</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>*Survey*
+--
+-course:String
+-id_num:int
+-questions:Question[]
+--
++course(self):String
++questions(self):Array
++id_num(self): int
++add_question(self, question):void
++delete_question(self, question):void
+--
+Responsibilities:
+--Maintain selection of questions and associated course</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>352</y>
+      <w>304</w>
+      <h>128</h>
+    </coordinates>
+    <panel_attributes>*Question*
+--
+-question: String
+-answers: String[]
+--
++question(self)
++answers(self)
++add_answer(self, answer)
+--
+Responsibilities:
+--Maintain details of a question &amp; associated answers
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>296</x>
+      <y>416</y>
+      <w>104</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m1=1
+m2=1..*</panel_attributes>
+    <additional_attributes>110.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>184</x>
+      <y>40</y>
+      <w>320</w>
+      <h>208</h>
+    </coordinates>
+    <panel_attributes>*Survey_system*
+--
+-question_list: Question[]
+-survey_list: Survey[]
+--
++index(): render_template
++add_question(): render_template
++survey(int): render_template
++view_surveys(): render_template
++view_questions(): render_template
+
++read_csv_courses(): String[]
++find_question(String): String
+--
+Responsibilities:
+--Maintain list of questions
+--Maintain list of surveys
+--Manage redirection and generation of pages</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>216</x>
+      <y>240</y>
+      <w>40</w>
+      <h>128</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=1
+m2=0..*</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>432</x>
+      <y>240</y>
+      <w>40</w>
+      <h>128</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=1
+m2=0..*</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;140.0</additional_attributes>
+  </element>
+</diagram>

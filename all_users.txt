@@ -1,0 +1,6100 @@
+Admin User
+    zID:  0
+    Pass: admin_password
+=========================
+SENG2011 17s2
+Staff: 
+    zID:  1161
+    Pass: staff1161
+Student: 
+    zID:  148
+    Pass: student867
+    zID:  224
+    Pass: student101
+    zID:  286
+    Pass: student878
+    zID:  298
+    Pass: student763
+    zID:  325
+    Pass: student139
+    zID:  399
+    Pass: student964
+    zID:  430
+    Pass: student126
+    zID:  455
+    Pass: student629
+    zID:  476
+    Pass: student380
+    zID:  478
+    Pass: student174
+    zID:  578
+    Pass: student948
+    zID:  593
+    Pass: student151
+    zID:  601
+    Pass: student167
+    zID:  615
+    Pass: student906
+    zID:  710
+    Pass: student687
+    zID:  751
+    Pass: student852
+    zID:  876
+    Pass: student513
+    zID:  877
+    Pass: student313
+    zID:  887
+    Pass: student632
+    zID:  917
+    Pass: student203
+    zID:  947
+    Pass: student844
+    zID:  949
+    Pass: student872
+    zID:  967
+    Pass: student852
+    zID:  980
+    Pass: student550
+    zID:  987
+    Pass: student253
+    zID:  999
+    Pass: student975
+=========================
+SENG2011 18s1
+Staff: 
+    zID:  1086
+    Pass: staff1086
+Student: 
+    zID:  127
+    Pass: student237
+    zID:  130
+    Pass: student886
+    zID:  134
+    Pass: student434
+    zID:  538
+    Pass: student639
+=========================
+SENG2011 18s2
+Staff: 
+    zID:  1160
+    Pass: staff1160
+Student: 
+=========================
+SENG2021 17s2
+Staff: 
+    zID:  1034
+    Pass: staff1034
+Student: 
+    zID:  164
+    Pass: student657
+    zID:  218
+    Pass: student164
+    zID:  223
+    Pass: student194
+    zID:  241
+    Pass: student142
+    zID:  296
+    Pass: student225
+    zID:  360
+    Pass: student943
+    zID:  429
+    Pass: student829
+    zID:  431
+    Pass: student492
+    zID:  436
+    Pass: student213
+    zID:  438
+    Pass: student129
+    zID:  464
+    Pass: student177
+    zID:  492
+    Pass: student832
+    zID:  508
+    Pass: student441
+    zID:  512
+    Pass: student309
+    zID:  519
+    Pass: student333
+    zID:  555
+    Pass: student162
+    zID:  581
+    Pass: student642
+    zID:  632
+    Pass: student562
+    zID:  635
+    Pass: student710
+    zID:  674
+    Pass: student450
+    zID:  698
+    Pass: student420
+    zID:  739
+    Pass: student716
+    zID:  826
+    Pass: student640
+    zID:  852
+    Pass: student326
+    zID:  854
+    Pass: student682
+    zID:  865
+    Pass: student378
+    zID:  946
+    Pass: student697
+    zID:  997
+    Pass: student203
+=========================
+SENG2021 18s1
+Staff: 
+    zID:  54
+    Pass: staff506
+Student: 
+=========================
+SENG2021 18s2
+Staff: 
+    zID:  1028
+    Pass: staff1028
+Student: 
+=========================
+SENG3011 17s2
+Staff: 
+    zID:  99
+    Pass: staff434
+Student: 
+    zID:  101
+    Pass: student756
+    zID:  174
+    Pass: student530
+    zID:  201
+    Pass: student327
+    zID:  271
+    Pass: student650
+    zID:  286
+    Pass: student878
+    zID:  298
+    Pass: student763
+    zID:  318
+    Pass: student995
+    zID:  346
+    Pass: student888
+    zID:  434
+    Pass: student947
+    zID:  437
+    Pass: student790
+    zID:  500
+    Pass: student603
+    zID:  526
+    Pass: student149
+    zID:  533
+    Pass: student974
+    zID:  635
+    Pass: student710
+    zID:  693
+    Pass: student392
+    zID:  696
+    Pass: student937
+    zID:  712
+    Pass: student646
+    zID:  738
+    Pass: student511
+    zID:  749
+    Pass: student282
+    zID:  765
+    Pass: student646
+    zID:  886
+    Pass: student912
+    zID:  899
+    Pass: student418
+    zID:  958
+    Pass: student207
+    zID:  989
+    Pass: student547
+=========================
+SENG3011 18s1
+Staff: 
+    zID:  1077
+    Pass: staff1077
+Student: 
+    zID:  133
+    Pass: student317
+    zID:  142
+    Pass: student873
+=========================
+SENG3011 18s2
+Staff: 
+    zID:  1020
+    Pass: staff1020
+Student: 
+=========================
+SENG4904 17s2
+Staff: 
+    zID:  74
+    Pass: staff461
+Student: 
+    zID:  150
+    Pass: student238
+    zID:  161
+    Pass: student563
+    zID:  175
+    Pass: student948
+    zID:  198
+    Pass: student396
+    zID:  204
+    Pass: student753
+    zID:  227
+    Pass: student429
+    zID:  256
+    Pass: student906
+    zID:  262
+    Pass: student578
+    zID:  313
+    Pass: student884
+    zID:  317
+    Pass: student894
+    zID:  330
+    Pass: student211
+    zID:  351
+    Pass: student730
+    zID:  355
+    Pass: student976
+    zID:  442
+    Pass: student318
+    zID:  559
+    Pass: student228
+    zID:  582
+    Pass: student844
+    zID:  668
+    Pass: student129
+    zID:  720
+    Pass: student597
+    zID:  769
+    Pass: student721
+    zID:  823
+    Pass: student654
+    zID:  827
+    Pass: student730
+    zID:  896
+    Pass: student166
+    zID:  934
+    Pass: student420
+    zID:  950
+    Pass: student409
+=========================
+SENG4904 18s1
+Staff: 
+    zID:  1107
+    Pass: staff1107
+Student: 
+    zID:  538
+    Pass: student639
+=========================
+SENG4904 18s2
+Staff: 
+    zID:  1079
+    Pass: staff1079
+Student: 
+=========================
+SENG4905 17s2
+Staff: 
+    zID:  1170
+    Pass: staff1170
+Student: 
+    zID:  279
+    Pass: student716
+    zID:  315
+    Pass: student477
+    zID:  340
+    Pass: student993
+    zID:  346
+    Pass: student888
+    zID:  393
+    Pass: student286
+    zID:  421
+    Pass: student541
+    zID:  462
+    Pass: student960
+    zID:  485
+    Pass: student187
+    zID:  556
+    Pass: student966
+    zID:  562
+    Pass: student874
+    zID:  569
+    Pass: student535
+    zID:  643
+    Pass: student555
+    zID:  733
+    Pass: student504
+    zID:  839
+    Pass: student737
+    zID:  856
+    Pass: student937
+    zID:  876
+    Pass: student513
+    zID:  952
+    Pass: student220
+=========================
+SENG4905 18s1
+Staff: 
+    zID:  1201
+    Pass: staff1201
+Student: 
+    zID:  541
+    Pass: student472
+=========================
+SENG4905 18s2
+Staff: 
+    zID:  1104
+    Pass: staff1104
+Student: 
+=========================
+SENG4906 17s2
+Staff: 
+    zID:  1101
+    Pass: staff1101
+Student: 
+    zID:  102
+    Pass: student627
+    zID:  154
+    Pass: student282
+    zID:  217
+    Pass: student916
+    zID:  232
+    Pass: student651
+    zID:  289
+    Pass: student469
+    zID:  312
+    Pass: student864
+    zID:  331
+    Pass: student707
+    zID:  354
+    Pass: student116
+    zID:  371
+    Pass: student369
+    zID:  374
+    Pass: student452
+    zID:  388
+    Pass: student157
+    zID:  400
+    Pass: student664
+    zID:  438
+    Pass: student129
+    zID:  506
+    Pass: student727
+    zID:  513
+    Pass: student236
+    zID:  520
+    Pass: student253
+    zID:  521
+    Pass: student935
+    zID:  577
+    Pass: student548
+    zID:  644
+    Pass: student299
+    zID:  655
+    Pass: student796
+    zID:  730
+    Pass: student827
+    zID:  772
+    Pass: student421
+    zID:  821
+    Pass: student839
+    zID:  831
+    Pass: student942
+    zID:  863
+    Pass: student361
+    zID:  970
+    Pass: student562
+    zID:  987
+    Pass: student253
+=========================
+SENG4906 18s1
+Staff: 
+    zID:  1184
+    Pass: staff1184
+Student: 
+    zID:  144
+    Pass: student620
+=========================
+SENG4906 18s2
+Staff: 
+    zID:  1058
+    Pass: staff1058
+Student: 
+=========================
+SENG4907 17s2
+Staff: 
+    zID:  97
+    Pass: staff359
+Student: 
+    zID:  158
+    Pass: student704
+    zID:  244
+    Pass: student294
+    zID:  260
+    Pass: student959
+    zID:  261
+    Pass: student882
+    zID:  293
+    Pass: student856
+    zID:  358
+    Pass: student242
+    zID:  424
+    Pass: student512
+    zID:  452
+    Pass: student874
+    zID:  459
+    Pass: student678
+    zID:  490
+    Pass: student448
+    zID:  597
+    Pass: student280
+    zID:  623
+    Pass: student593
+    zID:  664
+    Pass: student596
+    zID:  714
+    Pass: student274
+    zID:  764
+    Pass: student442
+    zID:  820
+    Pass: student268
+    zID:  858
+    Pass: student374
+    zID:  872
+    Pass: student550
+    zID:  881
+    Pass: student134
+    zID:  958
+    Pass: student207
+    zID:  990
+    Pass: student360
+=========================
+SENG4907 18s1
+Staff: 
+    zID:  1087
+    Pass: staff1087
+Student: 
+    zID:  547
+    Pass: student586
+=========================
+SENG4907 18s2
+Staff: 
+    zID:  1159
+    Pass: staff1159
+Student: 
+=========================
+SENG4920 17s2
+Staff: 
+    zID:  1148
+    Pass: staff1148
+Student: 
+    zID:  161
+    Pass: student563
+    zID:  212
+    Pass: student171
+    zID:  255
+    Pass: student281
+    zID:  258
+    Pass: student904
+    zID:  268
+    Pass: student608
+    zID:  282
+    Pass: student350
+    zID:  334
+    Pass: student291
+    zID:  357
+    Pass: student718
+    zID:  476
+    Pass: student380
+    zID:  483
+    Pass: student292
+    zID:  565
+    Pass: student578
+    zID:  573
+    Pass: student293
+    zID:  577
+    Pass: student548
+    zID:  656
+    Pass: student854
+    zID:  709
+    Pass: student734
+    zID:  738
+    Pass: student511
+    zID:  775
+    Pass: student750
+    zID:  777
+    Pass: student234
+    zID:  800
+    Pass: student252
+    zID:  808
+    Pass: student455
+    zID:  825
+    Pass: student307
+    zID:  838
+    Pass: student154
+    zID:  846
+    Pass: student623
+    zID:  881
+    Pass: student134
+    zID:  897
+    Pass: student503
+    zID:  944
+    Pass: student125
+    zID:  972
+    Pass: student375
+=========================
+SENG4920 18s1
+Staff: 
+    zID:  1023
+    Pass: staff1023
+Student: 
+    zID:  540
+    Pass: student140
+=========================
+SENG4920 18s2
+Staff: 
+    zID:  58
+    Pass: staff222
+Student: 
+=========================
+COMP1000 17s2
+Staff: 
+    zID:  80
+    Pass: staff880
+Student: 
+    zID:  100
+    Pass: student228
+    zID:  151
+    Pass: student762
+    zID:  196
+    Pass: student652
+    zID:  342
+    Pass: student843
+    zID:  382
+    Pass: student450
+    zID:  387
+    Pass: student186
+    zID:  529
+    Pass: student304
+    zID:  530
+    Pass: student256
+    zID:  680
+    Pass: student938
+    zID:  766
+    Pass: student363
+    zID:  844
+    Pass: student587
+    zID:  943
+    Pass: student395
+    zID:  957
+    Pass: student921
+    zID:  975
+    Pass: student164
+=========================
+COMP1000 18s1
+Staff: 
+    zID:  1057
+    Pass: staff1057
+Student: 
+    zID:  540
+    Pass: student140
+=========================
+COMP1000 18s2
+Staff: 
+    zID:  1123
+    Pass: staff1123
+Student: 
+=========================
+COMP1400 17s2
+Staff: 
+    zID:  1141
+    Pass: staff1141
+Student: 
+    zID:  106
+    Pass: student502
+    zID:  163
+    Pass: student831
+    zID:  218
+    Pass: student164
+    zID:  284
+    Pass: student550
+    zID:  332
+    Pass: student104
+    zID:  404
+    Pass: student961
+    zID:  432
+    Pass: student311
+    zID:  447
+    Pass: student587
+    zID:  474
+    Pass: student901
+    zID:  477
+    Pass: student594
+    zID:  638
+    Pass: student131
+    zID:  698
+    Pass: student420
+    zID:  700
+    Pass: student664
+    zID:  783
+    Pass: student111
+    zID:  806
+    Pass: student454
+    zID:  836
+    Pass: student882
+    zID:  849
+    Pass: student595
+=========================
+COMP1400 18s1
+Staff: 
+    zID:  1116
+    Pass: staff1116
+Student: 
+=========================
+COMP1400 18s2
+Staff: 
+    zID:  1126
+    Pass: staff1126
+Student: 
+=========================
+COMP1511 17s2
+Staff: 
+    zID:  1051
+    Pass: staff1051
+Student: 
+    zID:  250
+    Pass: student546
+    zID:  271
+    Pass: student650
+    zID:  310
+    Pass: student842
+    zID:  352
+    Pass: student429
+    zID:  370
+    Pass: student640
+    zID:  379
+    Pass: student542
+    zID:  405
+    Pass: student267
+    zID:  468
+    Pass: student613
+    zID:  575
+    Pass: student544
+    zID:  670
+    Pass: student271
+    zID:  678
+    Pass: student603
+    zID:  683
+    Pass: student368
+    zID:  790
+    Pass: student971
+    zID:  840
+    Pass: student577
+    zID:  863
+    Pass: student361
+    zID:  872
+    Pass: student550
+    zID:  991
+    Pass: student943
+=========================
+COMP1511 18s1
+Staff: 
+    zID:  1040
+    Pass: staff1040
+Student: 
+    zID:  137
+    Pass: student178
+=========================
+COMP1511 18s2
+Staff: 
+    zID:  1144
+    Pass: staff1144
+Student: 
+=========================
+COMP1521 17s2
+Staff: 
+    zID:  1092
+    Pass: staff1092
+Student: 
+    zID:  121
+    Pass: student274
+    zID:  209
+    Pass: student639
+    zID:  271
+    Pass: student650
+    zID:  321
+    Pass: student865
+    zID:  348
+    Pass: student669
+    zID:  392
+    Pass: student720
+    zID:  515
+    Pass: student762
+    zID:  677
+    Pass: student443
+    zID:  725
+    Pass: student325
+    zID:  774
+    Pass: student858
+    zID:  845
+    Pass: student105
+    zID:  918
+    Pass: student226
+    zID:  961
+    Pass: student284
+    zID:  965
+    Pass: student527
+    zID:  983
+    Pass: student150
+    zID:  985
+    Pass: student929
+=========================
+COMP1521 18s1
+Staff: 
+    zID:  1014
+    Pass: staff1014
+Student: 
+=========================
+COMP1521 18s2
+Staff: 
+    zID:  65
+    Pass: staff362
+Student: 
+=========================
+COMP1531 17s2
+Staff: 
+    zID:  1002
+    Pass: staff1002
+Student: 
+    zID:  152
+    Pass: student520
+    zID:  179
+    Pass: student347
+    zID:  226
+    Pass: student721
+    zID:  320
+    Pass: student260
+    zID:  322
+    Pass: student305
+    zID:  437
+    Pass: student790
+    zID:  492
+    Pass: student832
+    zID:  504
+    Pass: student582
+    zID:  553
+    Pass: student568
+    zID:  564
+    Pass: student991
+    zID:  591
+    Pass: student386
+    zID:  605
+    Pass: student102
+    zID:  640
+    Pass: student968
+    zID:  657
+    Pass: student709
+    zID:  661
+    Pass: student807
+    zID:  666
+    Pass: student709
+    zID:  718
+    Pass: student395
+    zID:  742
+    Pass: student705
+    zID:  758
+    Pass: student331
+    zID:  843
+    Pass: student704
+    zID:  890
+    Pass: student314
+    zID:  938
+    Pass: student247
+    zID:  942
+    Pass: student364
+    zID:  955
+    Pass: student316
+=========================
+COMP1531 18s1
+Staff: 
+    zID:  1131
+    Pass: staff1131
+Student: 
+    zID:  134
+    Pass: student434
+    zID:  552
+    Pass: student571
+=========================
+COMP1531 18s2
+Staff: 
+    zID:  1112
+    Pass: staff1112
+Student: 
+=========================
+COMP1911 17s2
+Staff: 
+    zID:  59
+    Pass: staff623
+Student: 
+    zID:  107
+    Pass: student673
+    zID:  122
+    Pass: student377
+    zID:  171
+    Pass: student175
+    zID:  213
+    Pass: student503
+    zID:  352
+    Pass: student429
+    zID:  389
+    Pass: student949
+    zID:  400
+    Pass: student664
+    zID:  413
+    Pass: student300
+    zID:  462
+    Pass: student960
+    zID:  466
+    Pass: student744
+    zID:  474
+    Pass: student901
+    zID:  475
+    Pass: student324
+    zID:  487
+    Pass: student685
+    zID:  507
+    Pass: student728
+    zID:  520
+    Pass: student253
+    zID:  523
+    Pass: student234
+    zID:  562
+    Pass: student874
+    zID:  582
+    Pass: student844
+    zID:  599
+    Pass: student911
+    zID:  624
+    Pass: student386
+    zID:  625
+    Pass: student302
+    zID:  629
+    Pass: student921
+    zID:  672
+    Pass: student244
+    zID:  722
+    Pass: student809
+    zID:  728
+    Pass: student933
+    zID:  762
+    Pass: student439
+    zID:  859
+    Pass: student538
+    zID:  887
+    Pass: student632
+    zID:  967
+    Pass: student852
+    zID:  984
+    Pass: student819
+=========================
+COMP1911 18s1
+Staff: 
+    zID:  1197
+    Pass: staff1197
+Student: 
+    zID:  548
+    Pass: student539
+=========================
+COMP1911 18s2
+Staff: 
+    zID:  1046
+    Pass: staff1046
+Student: 
+=========================
+COMP1921 17s2
+Staff: 
+    zID:  1142
+    Pass: staff1142
+Student: 
+    zID:  122
+    Pass: student377
+    zID:  173
+    Pass: student491
+    zID:  182
+    Pass: student706
+    zID:  220
+    Pass: student589
+    zID:  263
+    Pass: student129
+    zID:  280
+    Pass: student369
+    zID:  287
+    Pass: student806
+    zID:  334
+    Pass: student291
+    zID:  396
+    Pass: student293
+    zID:  587
+    Pass: student832
+    zID:  591
+    Pass: student386
+    zID:  609
+    Pass: student913
+    zID:  623
+    Pass: student593
+    zID:  669
+    Pass: student117
+    zID:  675
+    Pass: student943
+    zID:  707
+    Pass: student919
+    zID:  752
+    Pass: student678
+    zID:  753
+    Pass: student207
+    zID:  766
+    Pass: student363
+    zID:  774
+    Pass: student858
+    zID:  806
+    Pass: student454
+    zID:  847
+    Pass: student742
+    zID:  859
+    Pass: student538
+    zID:  907
+    Pass: student408
+    zID:  918
+    Pass: student226
+    zID:  921
+    Pass: student308
+    zID:  928
+    Pass: student773
+    zID:  950
+    Pass: student409
+    zID:  983
+    Pass: student150
+=========================
+COMP1921 18s1
+Staff: 
+    zID:  1015
+    Pass: staff1015
+Student: 
+    zID:  545
+    Pass: student763
+=========================
+COMP1921 18s2
+Staff: 
+    zID:  64
+    Pass: staff361
+Student: 
+=========================
+COMP1927 17s2
+Staff: 
+    zID:  1212
+    Pass: staff1212
+Student: 
+    zID:  115
+    Pass: student643
+    zID:  148
+    Pass: student867
+    zID:  165
+    Pass: student914
+    zID:  188
+    Pass: student325
+    zID:  336
+    Pass: student231
+    zID:  415
+    Pass: student170
+    zID:  426
+    Pass: student528
+    zID:  481
+    Pass: student260
+    zID:  497
+    Pass: student762
+    zID:  508
+    Pass: student441
+    zID:  510
+    Pass: student546
+    zID:  522
+    Pass: student294
+    zID:  637
+    Pass: student173
+    zID:  678
+    Pass: student603
+    zID:  684
+    Pass: student411
+    zID:  713
+    Pass: student863
+    zID:  726
+    Pass: student222
+    zID:  809
+    Pass: student156
+    zID:  827
+    Pass: student730
+    zID:  855
+    Pass: student447
+    zID:  893
+    Pass: student258
+    zID:  911
+    Pass: student222
+    zID:  947
+    Pass: student844
+    zID:  949
+    Pass: student872
+=========================
+COMP1927 18s1
+Staff: 
+    zID:  1181
+    Pass: staff1181
+Student: 
+    zID:  130
+    Pass: student886
+    zID:  540
+    Pass: student140
+=========================
+COMP1927 18s2
+Staff: 
+    zID:  1060
+    Pass: staff1060
+Student: 
+=========================
+COMP2041 17s2
+Staff: 
+    zID:  1200
+    Pass: staff1200
+Student: 
+    zID:  108
+    Pass: student953
+    zID:  150
+    Pass: student238
+    zID:  204
+    Pass: student753
+    zID:  329
+    Pass: student662
+    zID:  403
+    Pass: student210
+    zID:  424
+    Pass: student512
+    zID:  484
+    Pass: student981
+    zID:  553
+    Pass: student568
+    zID:  559
+    Pass: student228
+    zID:  568
+    Pass: student777
+    zID:  606
+    Pass: student164
+    zID:  682
+    Pass: student244
+    zID:  730
+    Pass: student827
+    zID:  870
+    Pass: student431
+    zID:  894
+    Pass: student535
+    zID:  921
+    Pass: student308
+=========================
+COMP2041 18s1
+Staff: 
+    zID:  1011
+    Pass: staff1011
+Student: 
+    zID:  542
+    Pass: student978
+    zID:  546
+    Pass: student776
+=========================
+COMP2041 18s2
+Staff: 
+    zID:  1174
+    Pass: staff1174
+Student: 
+=========================
+COMP2111 17s2
+Staff: 
+    zID:  1108
+    Pass: staff1108
+Student: 
+    zID:  162
+    Pass: student499
+    zID:  195
+    Pass: student177
+    zID:  209
+    Pass: student639
+    zID:  242
+    Pass: student905
+    zID:  330
+    Pass: student211
+    zID:  375
+    Pass: student555
+    zID:  450
+    Pass: student302
+    zID:  509
+    Pass: student441
+    zID:  519
+    Pass: student333
+    zID:  736
+    Pass: student131
+    zID:  791
+    Pass: student812
+    zID:  805
+    Pass: student116
+    zID:  881
+    Pass: student134
+    zID:  979
+    Pass: student680
+=========================
+COMP2111 18s1
+Staff: 
+    zID:  1130
+    Pass: staff1130
+Student: 
+    zID:  124
+    Pass: student284
+    zID:  130
+    Pass: student886
+=========================
+COMP2111 18s2
+Staff: 
+    zID:  1053
+    Pass: staff1053
+Student: 
+=========================
+COMP2121 17s2
+Staff: 
+    zID:  1013
+    Pass: staff1013
+Student: 
+    zID:  105
+    Pass: student940
+    zID:  188
+    Pass: student325
+    zID:  252
+    Pass: student111
+    zID:  290
+    Pass: student614
+    zID:  378
+    Pass: student397
+    zID:  383
+    Pass: student296
+    zID:  439
+    Pass: student572
+    zID:  446
+    Pass: student258
+    zID:  466
+    Pass: student744
+    zID:  529
+    Pass: student304
+    zID:  558
+    Pass: student668
+    zID:  621
+    Pass: student500
+    zID:  640
+    Pass: student968
+    zID:  717
+    Pass: student193
+    zID:  747
+    Pass: student379
+    zID:  778
+    Pass: student790
+    zID:  793
+    Pass: student396
+    zID:  834
+    Pass: student314
+    zID:  885
+    Pass: student656
+    zID:  889
+    Pass: student305
+    zID:  956
+    Pass: student754
+    zID:  978
+    Pass: student350
+=========================
+COMP2121 18s1
+Staff: 
+    zID:  1102
+    Pass: staff1102
+Student: 
+    zID:  537
+    Pass: student771
+=========================
+COMP2121 18s2
+Staff: 
+    zID:  1143
+    Pass: staff1143
+Student: 
+=========================
+COMP2511 17s2
+Staff: 
+    zID:  77
+    Pass: staff927
+Student: 
+    zID:  204
+    Pass: student753
+    zID:  215
+    Pass: student218
+    zID:  229
+    Pass: student297
+    zID:  231
+    Pass: student544
+    zID:  282
+    Pass: student350
+    zID:  298
+    Pass: student763
+    zID:  305
+    Pass: student637
+    zID:  320
+    Pass: student260
+    zID:  338
+    Pass: student677
+    zID:  391
+    Pass: student162
+    zID:  417
+    Pass: student118
+    zID:  425
+    Pass: student146
+    zID:  445
+    Pass: student854
+    zID:  504
+    Pass: student582
+    zID:  507
+    Pass: student728
+    zID:  575
+    Pass: student544
+    zID:  582
+    Pass: student844
+    zID:  609
+    Pass: student913
+    zID:  655
+    Pass: student796
+    zID:  760
+    Pass: student469
+    zID:  783
+    Pass: student111
+    zID:  822
+    Pass: student730
+    zID:  844
+    Pass: student587
+    zID:  886
+    Pass: student912
+    zID:  899
+    Pass: student418
+    zID:  919
+    Pass: student408
+    zID:  981
+    Pass: student675
+=========================
+COMP2511 18s1
+Staff: 
+    zID:  1158
+    Pass: staff1158
+Student: 
+    zID:  145
+    Pass: student839
+=========================
+COMP2511 18s2
+Staff: 
+    zID:  1029
+    Pass: staff1029
+Student: 
+=========================
+COMP2521 17s2
+Staff: 
+    zID:  1185
+    Pass: staff1185
+Student: 
+    zID:  102
+    Pass: student627
+    zID:  105
+    Pass: student940
+    zID:  232
+    Pass: student651
+    zID:  253
+    Pass: student317
+    zID:  299
+    Pass: student161
+    zID:  304
+    Pass: student507
+    zID:  307
+    Pass: student200
+    zID:  380
+    Pass: student453
+    zID:  452
+    Pass: student874
+    zID:  501
+    Pass: student729
+    zID:  557
+    Pass: student414
+    zID:  601
+    Pass: student167
+    zID:  652
+    Pass: student119
+    zID:  661
+    Pass: student807
+    zID:  662
+    Pass: student864
+    zID:  663
+    Pass: student954
+    zID:  696
+    Pass: student937
+    zID:  740
+    Pass: student113
+    zID:  765
+    Pass: student646
+    zID:  863
+    Pass: student361
+    zID:  867
+    Pass: student803
+    zID:  879
+    Pass: student253
+    zID:  889
+    Pass: student305
+    zID:  893
+    Pass: student258
+    zID:  896
+    Pass: student166
+    zID:  903
+    Pass: student179
+    zID:  916
+    Pass: student388
+    zID:  918
+    Pass: student226
+    zID:  951
+    Pass: student281
+=========================
+COMP2521 18s1
+Staff: 
+    zID:  1005
+    Pass: staff1005
+Student: 
+=========================
+COMP2521 18s2
+Staff: 
+    zID:  73
+    Pass: staff362
+Student: 
+=========================
+COMP2911 17s2
+Staff: 
+    zID:  1145
+    Pass: staff1145
+Student: 
+    zID:  100
+    Pass: student228
+    zID:  105
+    Pass: student940
+    zID:  123
+    Pass: student354
+    zID:  174
+    Pass: student530
+    zID:  252
+    Pass: student111
+    zID:  254
+    Pass: student279
+    zID:  302
+    Pass: student880
+    zID:  316
+    Pass: student513
+    zID:  361
+    Pass: student803
+    zID:  363
+    Pass: student118
+    zID:  379
+    Pass: student542
+    zID:  384
+    Pass: student319
+    zID:  455
+    Pass: student629
+    zID:  469
+    Pass: student606
+    zID:  524
+    Pass: student594
+    zID:  557
+    Pass: student414
+    zID:  567
+    Pass: student787
+    zID:  576
+    Pass: student187
+    zID:  646
+    Pass: student988
+    zID:  708
+    Pass: student430
+    zID:  713
+    Pass: student863
+    zID:  716
+    Pass: student680
+    zID:  779
+    Pass: student176
+    zID:  821
+    Pass: student839
+    zID:  825
+    Pass: student307
+    zID:  974
+    Pass: student535
+    zID:  998
+    Pass: student144
+=========================
+COMP2911 18s1
+Staff: 
+    zID:  55
+    Pass: staff729
+Student: 
+    zID:  147
+    Pass: student820
+=========================
+COMP2911 18s2
+Staff: 
+    zID:  1209
+    Pass: staff1209
+Student: 
+=========================
+COMP3121 17s2
+Staff: 
+    zID:  68
+    Pass: staff105
+Student: 
+    zID:  200
+    Pass: student926
+    zID:  441
+    Pass: student210
+    zID:  442
+    Pass: student318
+    zID:  498
+    Pass: student247
+    zID:  514
+    Pass: student924
+    zID:  564
+    Pass: student991
+    zID:  576
+    Pass: student187
+    zID:  610
+    Pass: student274
+    zID:  643
+    Pass: student555
+    zID:  670
+    Pass: student271
+    zID:  704
+    Pass: student271
+    zID:  713
+    Pass: student863
+    zID:  816
+    Pass: student154
+    zID:  817
+    Pass: student236
+    zID:  944
+    Pass: student125
+    zID:  955
+    Pass: student316
+    zID:  993
+    Pass: student566
+=========================
+COMP3121 18s1
+Staff: 
+    zID:  1106
+    Pass: staff1106
+Student: 
+    zID:  125
+    Pass: student729
+    zID:  145
+    Pass: student839
+    zID:  546
+    Pass: student776
+=========================
+COMP3121 18s2
+Staff: 
+    zID:  1138
+    Pass: staff1138
+Student: 
+=========================
+COMP3131 17s2
+Staff: 
+    zID:  1080
+    Pass: staff1080
+Student: 
+    zID:  102
+    Pass: student627
+    zID:  106
+    Pass: student502
+    zID:  117
+    Pass: student681
+    zID:  168
+    Pass: student708
+    zID:  175
+    Pass: student948
+    zID:  264
+    Pass: student748
+    zID:  277
+    Pass: student457
+    zID:  302
+    Pass: student880
+    zID:  353
+    Pass: student465
+    zID:  480
+    Pass: student326
+    zID:  538
+    Pass: student639
+    zID:  564
+    Pass: student991
+    zID:  590
+    Pass: student393
+    zID:  764
+    Pass: student442
+    zID:  819
+    Pass: student992
+    zID:  846
+    Pass: student623
+    zID:  858
+    Pass: student374
+    zID:  867
+    Pass: student803
+    zID:  876
+    Pass: student513
+    zID:  936
+    Pass: student228
+    zID:  994
+    Pass: student909
+=========================
+COMP3131 18s1
+Staff: 
+    zID:  1155
+    Pass: staff1155
+Student: 
+=========================
+COMP3131 18s2
+Staff: 
+    zID:  1031
+    Pass: staff1031
+Student: 
+=========================
+COMP3141 17s2
+Staff: 
+    zID:  1096
+    Pass: staff1096
+Student: 
+    zID:  206
+    Pass: student602
+    zID:  217
+    Pass: student916
+    zID:  285
+    Pass: student191
+    zID:  304
+    Pass: student507
+    zID:  307
+    Pass: student200
+    zID:  352
+    Pass: student429
+    zID:  359
+    Pass: student911
+    zID:  424
+    Pass: student512
+    zID:  496
+    Pass: student320
+    zID:  502
+    Pass: student186
+    zID:  512
+    Pass: student309
+    zID:  524
+    Pass: student594
+    zID:  552
+    Pass: student571
+    zID:  668
+    Pass: student129
+    zID:  712
+    Pass: student646
+    zID:  744
+    Pass: student566
+    zID:  763
+    Pass: student587
+    zID:  768
+    Pass: student156
+    zID:  825
+    Pass: student307
+    zID:  833
+    Pass: student228
+    zID:  886
+    Pass: student912
+    zID:  939
+    Pass: student983
+    zID:  995
+    Pass: student377
+=========================
+COMP3141 18s1
+Staff: 
+    zID:  1076
+    Pass: staff1076
+Student: 
+    zID:  128
+    Pass: student274
+    zID:  545
+    Pass: student763
+    zID:  550
+    Pass: student101
+=========================
+COMP3141 18s2
+Staff: 
+    zID:  1061
+    Pass: staff1061
+Student: 
+=========================
+COMP3151 17s2
+Staff: 
+    zID:  1024
+    Pass: staff1024
+Student: 
+    zID:  186
+    Pass: student791
+    zID:  190
+    Pass: student123
+    zID:  275
+    Pass: student610
+    zID:  309
+    Pass: student768
+    zID:  337
+    Pass: student325
+    zID:  338
+    Pass: student677
+    zID:  365
+    Pass: student954
+    zID:  505
+    Pass: student374
+    zID:  568
+    Pass: student777
+    zID:  599
+    Pass: student911
+    zID:  615
+    Pass: student906
+    zID:  616
+    Pass: student992
+    zID:  634
+    Pass: student921
+    zID:  644
+    Pass: student299
+    zID:  650
+    Pass: student851
+    zID:  686
+    Pass: student563
+    zID:  701
+    Pass: student178
+    zID:  726
+    Pass: student222
+    zID:  732
+    Pass: student180
+    zID:  760
+    Pass: student469
+    zID:  786
+    Pass: student145
+    zID:  842
+    Pass: student141
+    zID:  845
+    Pass: student105
+    zID:  868
+    Pass: student831
+    zID:  874
+    Pass: student376
+    zID:  916
+    Pass: student388
+    zID:  929
+    Pass: student496
+=========================
+COMP3151 18s1
+Staff: 
+    zID:  1157
+    Pass: staff1157
+Student: 
+=========================
+COMP3151 18s2
+Staff: 
+    zID:  1089
+    Pass: staff1089
+Student: 
+=========================
+COMP3153 17s2
+Staff: 
+    zID:  63
+    Pass: staff347
+Student: 
+    zID:  150
+    Pass: student238
+    zID:  165
+    Pass: student914
+    zID:  222
+    Pass: student438
+    zID:  262
+    Pass: student578
+    zID:  297
+    Pass: student531
+    zID:  301
+    Pass: student389
+    zID:  315
+    Pass: student477
+    zID:  337
+    Pass: student325
+    zID:  363
+    Pass: student118
+    zID:  414
+    Pass: student985
+    zID:  454
+    Pass: student513
+    zID:  460
+    Pass: student612
+    zID:  556
+    Pass: student966
+    zID:  573
+    Pass: student293
+    zID:  610
+    Pass: student274
+    zID:  631
+    Pass: student189
+    zID:  648
+    Pass: student423
+    zID:  650
+    Pass: student851
+    zID:  679
+    Pass: student242
+    zID:  714
+    Pass: student274
+    zID:  739
+    Pass: student716
+    zID:  743
+    Pass: student311
+    zID:  784
+    Pass: student775
+    zID:  794
+    Pass: student312
+    zID:  830
+    Pass: student770
+    zID:  867
+    Pass: student803
+    zID:  898
+    Pass: student909
+    zID:  913
+    Pass: student587
+    zID:  954
+    Pass: student368
+    zID:  976
+    Pass: student930
+    zID:  993
+    Pass: student566
+    zID:  999
+    Pass: student975
+=========================
+COMP3153 18s1
+Staff: 
+    zID:  1050
+    Pass: staff1050
+Student: 
+    zID:  125
+    Pass: student729
+=========================
+COMP3153 18s2
+Staff: 
+    zID:  1194
+    Pass: staff1194
+Student: 
+=========================
+COMP3161 17s2
+Staff: 
+    zID:  1147
+    Pass: staff1147
+Student: 
+    zID:  179
+    Pass: student347
+    zID:  187
+    Pass: student322
+    zID:  207
+    Pass: student384
+    zID:  221
+    Pass: student121
+    zID:  240
+    Pass: student286
+    zID:  246
+    Pass: student406
+    zID:  248
+    Pass: student605
+    zID:  256
+    Pass: student906
+    zID:  315
+    Pass: student477
+    zID:  355
+    Pass: student976
+    zID:  395
+    Pass: student328
+    zID:  435
+    Pass: student165
+    zID:  488
+    Pass: student324
+    zID:  498
+    Pass: student247
+    zID:  505
+    Pass: student374
+    zID:  506
+    Pass: student727
+    zID:  519
+    Pass: student333
+    zID:  561
+    Pass: student445
+    zID:  563
+    Pass: student853
+    zID:  581
+    Pass: student642
+    zID:  622
+    Pass: student635
+    zID:  627
+    Pass: student112
+    zID:  693
+    Pass: student392
+    zID:  706
+    Pass: student828
+    zID:  790
+    Pass: student971
+    zID:  805
+    Pass: student116
+    zID:  939
+    Pass: student983
+    zID:  955
+    Pass: student316
+    zID:  982
+    Pass: student183
+=========================
+COMP3161 18s1
+Staff: 
+    zID:  1091
+    Pass: staff1091
+Student: 
+=========================
+COMP3161 18s2
+Staff: 
+    zID:  1119
+    Pass: staff1119
+Student: 
+=========================
+COMP3211 17s2
+Staff: 
+    zID:  1195
+    Pass: staff1195
+Student: 
+    zID:  115
+    Pass: student643
+    zID:  186
+    Pass: student791
+    zID:  198
+    Pass: student396
+    zID:  200
+    Pass: student926
+    zID:  212
+    Pass: student171
+    zID:  216
+    Pass: student958
+    zID:  248
+    Pass: student605
+    zID:  273
+    Pass: student727
+    zID:  311
+    Pass: student146
+    zID:  312
+    Pass: student864
+    zID:  313
+    Pass: student884
+    zID:  370
+    Pass: student640
+    zID:  421
+    Pass: student541
+    zID:  431
+    Pass: student492
+    zID:  536
+    Pass: student321
+    zID:  596
+    Pass: student348
+    zID:  647
+    Pass: student624
+    zID:  675
+    Pass: student943
+    zID:  688
+    Pass: student177
+    zID:  694
+    Pass: student875
+    zID:  703
+    Pass: student147
+    zID:  790
+    Pass: student971
+    zID:  829
+    Pass: student490
+    zID:  855
+    Pass: student447
+    zID:  910
+    Pass: student203
+    zID:  927
+    Pass: student784
+    zID:  933
+    Pass: student747
+    zID:  948
+    Pass: student789
+    zID:  958
+    Pass: student207
+=========================
+COMP3211 18s1
+Staff: 
+    zID:  1019
+    Pass: staff1019
+Student: 
+=========================
+COMP3211 18s2
+Staff: 
+    zID:  62
+    Pass: staff732
+Student: 
+=========================
+COMP3222 17s2
+Staff: 
+    zID:  1004
+    Pass: staff1004
+Student: 
+    zID:  169
+    Pass: student531
+    zID:  292
+    Pass: student288
+    zID:  307
+    Pass: student200
+    zID:  339
+    Pass: student203
+    zID:  340
+    Pass: student993
+    zID:  422
+    Pass: student611
+    zID:  429
+    Pass: student829
+    zID:  473
+    Pass: student407
+    zID:  479
+    Pass: student132
+    zID:  482
+    Pass: student917
+    zID:  487
+    Pass: student685
+    zID:  518
+    Pass: student949
+    zID:  605
+    Pass: student102
+    zID:  608
+    Pass: student419
+    zID:  671
+    Pass: student110
+    zID:  720
+    Pass: student597
+    zID:  826
+    Pass: student640
+    zID:  859
+    Pass: student538
+    zID:  869
+    Pass: student354
+    zID:  993
+    Pass: student566
+=========================
+COMP3222 18s1
+Staff: 
+    zID:  1036
+    Pass: staff1036
+Student: 
+=========================
+COMP3222 18s2
+Staff: 
+    zID:  1150
+    Pass: staff1150
+Student: 
+=========================
+COMP3231 17s2
+Staff: 
+    zID:  1136
+    Pass: staff1136
+Student: 
+    zID:  104
+    Pass: student403
+    zID:  185
+    Pass: student754
+    zID:  205
+    Pass: student956
+    zID:  226
+    Pass: student721
+    zID:  347
+    Pass: student859
+    zID:  369
+    Pass: student280
+    zID:  373
+    Pass: student827
+    zID:  401
+    Pass: student267
+    zID:  408
+    Pass: student804
+    zID:  414
+    Pass: student985
+    zID:  416
+    Pass: student673
+    zID:  429
+    Pass: student829
+    zID:  504
+    Pass: student582
+    zID:  531
+    Pass: student736
+    zID:  575
+    Pass: student544
+    zID:  595
+    Pass: student785
+    zID:  706
+    Pass: student828
+    zID:  718
+    Pass: student395
+    zID:  753
+    Pass: student207
+    zID:  782
+    Pass: student979
+    zID:  818
+    Pass: student205
+    zID:  835
+    Pass: student570
+    zID:  860
+    Pass: student732
+    zID:  867
+    Pass: student803
+    zID:  900
+    Pass: student432
+    zID:  923
+    Pass: student108
+    zID:  951
+    Pass: student281
+    zID:  954
+    Pass: student368
+    zID:  957
+    Pass: student921
+    zID:  965
+    Pass: student527
+    zID:  980
+    Pass: student550
+=========================
+COMP3231 18s1
+Staff: 
+    zID:  1210
+    Pass: staff1210
+Student: 
+    zID:  138
+    Pass: student176
+=========================
+COMP3231 18s2
+Staff: 
+    zID:  1039
+    Pass: staff1039
+Student: 
+=========================
+COMP3311 17s2
+Staff: 
+    zID:  1164
+    Pass: staff1164
+Student: 
+    zID:  176
+    Pass: student134
+    zID:  219
+    Pass: student186
+    zID:  225
+    Pass: student891
+    zID:  229
+    Pass: student297
+    zID:  233
+    Pass: student433
+    zID:  269
+    Pass: student842
+    zID:  296
+    Pass: student225
+    zID:  311
+    Pass: student146
+    zID:  437
+    Pass: student790
+    zID:  439
+    Pass: student572
+    zID:  451
+    Pass: student619
+    zID:  453
+    Pass: student488
+    zID:  459
+    Pass: student678
+    zID:  553
+    Pass: student568
+    zID:  600
+    Pass: student385
+    zID:  618
+    Pass: student203
+    zID:  629
+    Pass: student921
+    zID:  666
+    Pass: student709
+    zID:  668
+    Pass: student129
+    zID:  671
+    Pass: student110
+    zID:  689
+    Pass: student795
+    zID:  715
+    Pass: student640
+    zID:  775
+    Pass: student750
+    zID:  810
+    Pass: student251
+    zID:  823
+    Pass: student654
+    zID:  824
+    Pass: student589
+    zID:  882
+    Pass: student712
+    zID:  913
+    Pass: student587
+=========================
+COMP3311 18s1
+Staff: 
+    zID:  83
+    Pass: staff388
+Student: 
+    zID:  129
+    Pass: student243
+    zID:  539
+    Pass: student891
+=========================
+COMP3311 18s2
+Staff: 
+    zID:  94
+    Pass: staff397
+Student: 
+=========================
+COMP3331 17s2
+Staff: 
+    zID:  1114
+    Pass: staff1114
+Student: 
+    zID:  179
+    Pass: student347
+    zID:  188
+    Pass: student325
+    zID:  211
+    Pass: student190
+    zID:  283
+    Pass: student462
+    zID:  296
+    Pass: student225
+    zID:  343
+    Pass: student551
+    zID:  360
+    Pass: student943
+    zID:  366
+    Pass: student194
+    zID:  494
+    Pass: student407
+    zID:  586
+    Pass: student448
+    zID:  614
+    Pass: student961
+    zID:  687
+    Pass: student756
+    zID:  721
+    Pass: student776
+    zID:  761
+    Pass: student288
+    zID:  774
+    Pass: student858
+    zID:  803
+    Pass: student288
+    zID:  812
+    Pass: student977
+    zID:  819
+    Pass: student992
+    zID:  907
+    Pass: student408
+=========================
+COMP3331 18s1
+Staff: 
+    zID:  1188
+    Pass: staff1188
+Student: 
+    zID:  135
+    Pass: student849
+=========================
+COMP3331 18s2
+Staff: 
+    zID:  92
+    Pass: staff136
+Student: 
+=========================
+COMP3411 17s2
+Staff: 
+    zID:  1052
+    Pass: staff1052
+Student: 
+    zID:  153
+    Pass: student190
+    zID:  256
+    Pass: student906
+    zID:  287
+    Pass: student806
+    zID:  302
+    Pass: student880
+    zID:  322
+    Pass: student305
+    zID:  341
+    Pass: student825
+    zID:  384
+    Pass: student319
+    zID:  401
+    Pass: student267
+    zID:  402
+    Pass: student615
+    zID:  443
+    Pass: student701
+    zID:  456
+    Pass: student632
+    zID:  461
+    Pass: student521
+    zID:  466
+    Pass: student744
+    zID:  479
+    Pass: student132
+    zID:  643
+    Pass: student555
+    zID:  675
+    Pass: student943
+    zID:  684
+    Pass: student411
+    zID:  715
+    Pass: student640
+    zID:  720
+    Pass: student597
+    zID:  754
+    Pass: student142
+    zID:  767
+    Pass: student977
+    zID:  781
+    Pass: student303
+    zID:  786
+    Pass: student145
+    zID:  798
+    Pass: student583
+    zID:  815
+    Pass: student631
+    zID:  899
+    Pass: student418
+    zID:  915
+    Pass: student650
+=========================
+COMP3411 18s1
+Staff: 
+    zID:  1026
+    Pass: staff1026
+Student: 
+    zID:  133
+    Pass: student317
+    zID:  535
+    Pass: student372
+=========================
+COMP3411 18s2
+Staff: 
+    zID:  1146
+    Pass: staff1146
+Student: 
+=========================
+COMP3421 17s2
+Staff: 
+    zID:  1154
+    Pass: staff1154
+Student: 
+    zID:  106
+    Pass: student502
+    zID:  111
+    Pass: student722
+    zID:  122
+    Pass: student377
+    zID:  194
+    Pass: student872
+    zID:  197
+    Pass: student995
+    zID:  244
+    Pass: student294
+    zID:  415
+    Pass: student170
+    zID:  423
+    Pass: student103
+    zID:  473
+    Pass: student407
+    zID:  507
+    Pass: student728
+    zID:  520
+    Pass: student253
+    zID:  560
+    Pass: student541
+    zID:  573
+    Pass: student293
+    zID:  578
+    Pass: student948
+    zID:  700
+    Pass: student664
+    zID:  705
+    Pass: student634
+    zID:  750
+    Pass: student979
+    zID:  751
+    Pass: student852
+    zID:  786
+    Pass: student145
+    zID:  793
+    Pass: student396
+    zID:  794
+    Pass: student312
+    zID:  827
+    Pass: student730
+    zID:  859
+    Pass: student538
+=========================
+COMP3421 18s1
+Staff: 
+    zID:  1030
+    Pass: staff1030
+Student: 
+=========================
+COMP3421 18s2
+Staff: 
+    zID:  51
+    Pass: staff462
+Student: 
+=========================
+COMP3431 17s2
+Staff: 
+    zID:  1122
+    Pass: staff1122
+Student: 
+    zID:  157
+    Pass: student212
+    zID:  193
+    Pass: student780
+    zID:  234
+    Pass: student334
+    zID:  249
+    Pass: student657
+    zID:  301
+    Pass: student389
+    zID:  309
+    Pass: student768
+    zID:  345
+    Pass: student686
+    zID:  346
+    Pass: student888
+    zID:  366
+    Pass: student194
+    zID:  442
+    Pass: student318
+    zID:  498
+    Pass: student247
+    zID:  499
+    Pass: student204
+    zID:  521
+    Pass: student935
+    zID:  596
+    Pass: student348
+    zID:  597
+    Pass: student280
+    zID:  607
+    Pass: student322
+    zID:  676
+    Pass: student658
+    zID:  711
+    Pass: student423
+    zID:  746
+    Pass: student784
+    zID:  769
+    Pass: student721
+    zID:  779
+    Pass: student176
+    zID:  804
+    Pass: student500
+    zID:  893
+    Pass: student258
+    zID:  915
+    Pass: student650
+    zID:  916
+    Pass: student388
+    zID:  941
+    Pass: student689
+=========================
+COMP3431 18s1
+Staff: 
+    zID:  89
+    Pass: staff259
+Student: 
+    zID:  142
+    Pass: student873
+    zID:  147
+    Pass: student820
+=========================
+COMP3431 18s2
+Staff: 
+    zID:  1193
+    Pass: staff1193
+Student: 
+=========================
+COMP3511 17s2
+Staff: 
+    zID:  1177
+    Pass: staff1177
+Student: 
+    zID:  110
+    Pass: student855
+    zID:  116
+    Pass: student971
+    zID:  118
+    Pass: student916
+    zID:  120
+    Pass: student652
+    zID:  189
+    Pass: student453
+    zID:  193
+    Pass: student780
+    zID:  194
+    Pass: student872
+    zID:  245
+    Pass: student752
+    zID:  276
+    Pass: student725
+    zID:  301
+    Pass: student389
+    zID:  375
+    Pass: student555
+    zID:  379
+    Pass: student542
+    zID:  428
+    Pass: student390
+    zID:  430
+    Pass: student126
+    zID:  435
+    Pass: student165
+    zID:  481
+    Pass: student260
+    zID:  552
+    Pass: student571
+    zID:  554
+    Pass: student902
+    zID:  564
+    Pass: student991
+    zID:  603
+    Pass: student389
+    zID:  612
+    Pass: student655
+    zID:  664
+    Pass: student596
+    zID:  667
+    Pass: student979
+    zID:  681
+    Pass: student349
+    zID:  732
+    Pass: student180
+    zID:  779
+    Pass: student176
+    zID:  787
+    Pass: student324
+    zID:  866
+    Pass: student711
+    zID:  924
+    Pass: student379
+    zID:  934
+    Pass: student420
+    zID:  988
+    Pass: student768
+=========================
+COMP3511 18s1
+Staff: 
+    zID:  95
+    Pass: staff584
+Student: 
+=========================
+COMP3511 18s2
+Staff: 
+    zID:  82
+    Pass: staff601
+Student: 
+=========================
+COMP3601 17s2
+Staff: 
+    zID:  1137
+    Pass: staff1137
+Student: 
+    zID:  119
+    Pass: student531
+    zID:  172
+    Pass: student209
+    zID:  256
+    Pass: student906
+    zID:  257
+    Pass: student946
+    zID:  266
+    Pass: student887
+    zID:  274
+    Pass: student787
+    zID:  346
+    Pass: student888
+    zID:  366
+    Pass: student194
+    zID:  390
+    Pass: student683
+    zID:  403
+    Pass: student210
+    zID:  420
+    Pass: student526
+    zID:  445
+    Pass: student854
+    zID:  448
+    Pass: student239
+    zID:  512
+    Pass: student309
+    zID:  569
+    Pass: student535
+    zID:  577
+    Pass: student548
+    zID:  635
+    Pass: student710
+    zID:  642
+    Pass: student120
+    zID:  656
+    Pass: student854
+    zID:  690
+    Pass: student642
+    zID:  782
+    Pass: student979
+    zID:  787
+    Pass: student324
+    zID:  793
+    Pass: student396
+    zID:  908
+    Pass: student307
+    zID:  970
+    Pass: student562
+    zID:  972
+    Pass: student375
+    zID:  976
+    Pass: student930
+=========================
+COMP3601 18s1
+Staff: 
+    zID:  1098
+    Pass: staff1098
+Student: 
+    zID:  539
+    Pass: student891
+=========================
+COMP3601 18s2
+Staff: 
+    zID:  1180
+    Pass: staff1180
+Student: 
+=========================
+COMP3821 17s2
+Staff: 
+    zID:  85
+    Pass: staff538
+Student: 
+    zID:  117
+    Pass: student681
+    zID:  191
+    Pass: student192
+    zID:  196
+    Pass: student652
+    zID:  228
+    Pass: student374
+    zID:  299
+    Pass: student161
+    zID:  318
+    Pass: student995
+    zID:  334
+    Pass: student291
+    zID:  351
+    Pass: student730
+    zID:  430
+    Pass: student126
+    zID:  454
+    Pass: student513
+    zID:  459
+    Pass: student678
+    zID:  469
+    Pass: student606
+    zID:  517
+    Pass: student305
+    zID:  523
+    Pass: student234
+    zID:  529
+    Pass: student304
+    zID:  531
+    Pass: student736
+    zID:  567
+    Pass: student787
+    zID:  785
+    Pass: student640
+    zID:  822
+    Pass: student730
+    zID:  895
+    Pass: student269
+    zID:  902
+    Pass: student310
+    zID:  977
+    Pass: student976
+=========================
+COMP3821 18s1
+Staff: 
+    zID:  1071
+    Pass: staff1071
+Student: 
+    zID:  141
+    Pass: student902
+=========================
+COMP3821 18s2
+Staff: 
+    zID:  1172
+    Pass: staff1172
+Student: 
+=========================
+COMP3891 17s2
+Staff: 
+    zID:  70
+    Pass: staff819
+Student: 
+    zID:  103
+    Pass: student711
+    zID:  153
+    Pass: student190
+    zID:  198
+    Pass: student396
+    zID:  220
+    Pass: student589
+    zID:  230
+    Pass: student375
+    zID:  296
+    Pass: student225
+    zID:  320
+    Pass: student260
+    zID:  339
+    Pass: student203
+    zID:  367
+    Pass: student397
+    zID:  421
+    Pass: student541
+    zID:  456
+    Pass: student632
+    zID:  510
+    Pass: student546
+    zID:  597
+    Pass: student280
+    zID:  599
+    Pass: student911
+    zID:  609
+    Pass: student913
+    zID:  619
+    Pass: student721
+    zID:  641
+    Pass: student700
+    zID:  778
+    Pass: student790
+    zID:  785
+    Pass: student640
+    zID:  804
+    Pass: student500
+    zID:  808
+    Pass: student455
+    zID:  905
+    Pass: student855
+    zID:  984
+    Pass: student819
+    zID:  995
+    Pass: student377
+=========================
+COMP3891 18s1
+Staff: 
+    zID:  1055
+    Pass: staff1055
+Student: 
+    zID:  136
+    Pass: student706
+    zID:  139
+    Pass: student572
+    zID:  537
+    Pass: student771
+=========================
+COMP3891 18s2
+Staff: 
+    zID:  1186
+    Pass: staff1186
+Student: 
+=========================
+COMP3900 17s2
+Staff: 
+    zID:  1111
+    Pass: staff1111
+Student: 
+    zID:  177
+    Pass: student313
+    zID:  233
+    Pass: student433
+    zID:  234
+    Pass: student334
+    zID:  253
+    Pass: student317
+    zID:  278
+    Pass: student433
+    zID:  297
+    Pass: student531
+    zID:  305
+    Pass: student637
+    zID:  363
+    Pass: student118
+    zID:  420
+    Pass: student526
+    zID:  451
+    Pass: student619
+    zID:  560
+    Pass: student541
+    zID:  569
+    Pass: student535
+    zID:  599
+    Pass: student911
+    zID:  616
+    Pass: student992
+    zID:  617
+    Pass: student128
+    zID:  618
+    Pass: student203
+    zID:  638
+    Pass: student131
+    zID:  659
+    Pass: student567
+    zID:  668
+    Pass: student129
+    zID:  699
+    Pass: student556
+    zID:  756
+    Pass: student739
+    zID:  809
+    Pass: student156
+    zID:  879
+    Pass: student253
+    zID:  988
+    Pass: student768
+=========================
+COMP3900 18s1
+Staff: 
+    zID:  1083
+    Pass: staff1083
+Student: 
+    zID:  127
+    Pass: student237
+    zID:  132
+    Pass: student765
+    zID:  551
+    Pass: student375
+=========================
+COMP3900 18s2
+Staff: 
+    zID:  1163
+    Pass: staff1163
+Student: 
+=========================
+COMP3901 17s2
+Staff: 
+    zID:  1070
+    Pass: staff1070
+Student: 
+    zID:  158
+    Pass: student704
+    zID:  174
+    Pass: student530
+    zID:  184
+    Pass: student226
+    zID:  222
+    Pass: student438
+    zID:  243
+    Pass: student241
+    zID:  289
+    Pass: student469
+    zID:  290
+    Pass: student614
+    zID:  343
+    Pass: student551
+    zID:  434
+    Pass: student947
+    zID:  455
+    Pass: student629
+    zID:  486
+    Pass: student991
+    zID:  513
+    Pass: student236
+    zID:  566
+    Pass: student248
+    zID:  580
+    Pass: student348
+    zID:  586
+    Pass: student448
+    zID:  603
+    Pass: student389
+    zID:  628
+    Pass: student287
+    zID:  683
+    Pass: student368
+    zID:  723
+    Pass: student934
+    zID:  738
+    Pass: student511
+    zID:  740
+    Pass: student113
+    zID:  748
+    Pass: student779
+    zID:  778
+    Pass: student790
+    zID:  797
+    Pass: student634
+    zID:  862
+    Pass: student913
+    zID:  864
+    Pass: student752
+    zID:  901
+    Pass: student830
+    zID:  930
+    Pass: student583
+    zID:  997
+    Pass: student203
+=========================
+COMP3901 18s1
+Staff: 
+    zID:  53
+    Pass: staff244
+Student: 
+    zID:  127
+    Pass: student237
+    zID:  139
+    Pass: student572
+    zID:  141
+    Pass: student902
+=========================
+COMP3901 18s2
+Staff: 
+    zID:  66
+    Pass: staff267
+Student: 
+=========================
+COMP3902 17s2
+Staff: 
+    zID:  1149
+    Pass: staff1149
+Student: 
+    zID:  159
+    Pass: student557
+    zID:  181
+    Pass: student794
+    zID:  254
+    Pass: student279
+    zID:  298
+    Pass: student763
+    zID:  350
+    Pass: student116
+    zID:  352
+    Pass: student429
+    zID:  361
+    Pass: student803
+    zID:  365
+    Pass: student954
+    zID:  385
+    Pass: student651
+    zID:  587
+    Pass: student832
+    zID:  752
+    Pass: student678
+    zID:  776
+    Pass: student515
+    zID:  792
+    Pass: student550
+    zID:  797
+    Pass: student634
+    zID:  822
+    Pass: student730
+    zID:  884
+    Pass: student506
+    zID:  917
+    Pass: student203
+    zID:  932
+    Pass: student678
+=========================
+COMP3902 18s1
+Staff: 
+    zID:  1073
+    Pass: staff1073
+Student: 
+    zID:  124
+    Pass: student284
+    zID:  132
+    Pass: student765
+=========================
+COMP3902 18s2
+Staff: 
+    zID:  1171
+    Pass: staff1171
+Student: 
+=========================
+COMP4001 17s2
+Staff: 
+    zID:  1202
+    Pass: staff1202
+Student: 
+    zID:  102
+    Pass: student627
+    zID:  112
+    Pass: student264
+    zID:  153
+    Pass: student190
+    zID:  239
+    Pass: student964
+    zID:  348
+    Pass: student669
+    zID:  373
+    Pass: student827
+    zID:  450
+    Pass: student302
+    zID:  511
+    Pass: student512
+    zID:  573
+    Pass: student293
+    zID:  623
+    Pass: student593
+    zID:  654
+    Pass: student545
+    zID:  665
+    Pass: student474
+    zID:  702
+    Pass: student657
+    zID:  736
+    Pass: student131
+    zID:  741
+    Pass: student736
+    zID:  763
+    Pass: student587
+    zID:  785
+    Pass: student640
+    zID:  798
+    Pass: student583
+    zID:  953
+    Pass: student224
+    zID:  983
+    Pass: student150
+=========================
+COMP4001 18s1
+Staff: 
+    zID:  1178
+    Pass: staff1178
+Student: 
+    zID:  541
+    Pass: student472
+=========================
+COMP4001 18s2
+Staff: 
+    zID:  1068
+    Pass: staff1068
+Student: 
+=========================
+COMP4121 17s2
+Staff: 
+    zID:  1179
+    Pass: staff1179
+Student: 
+    zID:  114
+    Pass: student668
+    zID:  147
+    Pass: student820
+    zID:  232
+    Pass: student651
+    zID:  260
+    Pass: student959
+    zID:  341
+    Pass: student825
+    zID:  374
+    Pass: student452
+    zID:  412
+    Pass: student289
+    zID:  414
+    Pass: student985
+    zID:  423
+    Pass: student103
+    zID:  438
+    Pass: student129
+    zID:  454
+    Pass: student513
+    zID:  479
+    Pass: student132
+    zID:  532
+    Pass: student437
+    zID:  585
+    Pass: student642
+    zID:  610
+    Pass: student274
+    zID:  612
+    Pass: student655
+    zID:  617
+    Pass: student128
+    zID:  645
+    Pass: student366
+    zID:  848
+    Pass: student579
+    zID:  879
+    Pass: student253
+    zID:  904
+    Pass: student192
+    zID:  977
+    Pass: student976
+=========================
+COMP4121 18s1
+Staff: 
+    zID:  1105
+    Pass: staff1105
+Student: 
+=========================
+COMP4121 18s2
+Staff: 
+    zID:  1139
+    Pass: staff1139
+Student: 
+=========================
+COMP4128 17s2
+Staff: 
+    zID:  1065
+    Pass: staff1065
+Student: 
+    zID:  187
+    Pass: student322
+    zID:  213
+    Pass: student503
+    zID:  242
+    Pass: student905
+    zID:  275
+    Pass: student610
+    zID:  343
+    Pass: student551
+    zID:  377
+    Pass: student879
+    zID:  383
+    Pass: student296
+    zID:  410
+    Pass: student133
+    zID:  421
+    Pass: student541
+    zID:  427
+    Pass: student626
+    zID:  436
+    Pass: student213
+    zID:  437
+    Pass: student790
+    zID:  445
+    Pass: student854
+    zID:  447
+    Pass: student587
+    zID:  450
+    Pass: student302
+    zID:  519
+    Pass: student333
+    zID:  634
+    Pass: student921
+    zID:  822
+    Pass: student730
+    zID:  845
+    Pass: student105
+    zID:  853
+    Pass: student166
+    zID:  909
+    Pass: student444
+=========================
+COMP4128 18s1
+Staff: 
+    zID:  78
+    Pass: staff151
+Student: 
+    zID:  133
+    Pass: student317
+=========================
+COMP4128 18s2
+Staff: 
+    zID:  1205
+    Pass: staff1205
+Student: 
+=========================
+COMP4141 17s2
+Staff: 
+    zID:  1041
+    Pass: staff1041
+Student: 
+    zID:  203
+    Pass: student298
+    zID:  216
+    Pass: student958
+    zID:  271
+    Pass: student650
+    zID:  276
+    Pass: student725
+    zID:  328
+    Pass: student535
+    zID:  329
+    Pass: student662
+    zID:  333
+    Pass: student977
+    zID:  355
+    Pass: student976
+    zID:  369
+    Pass: student280
+    zID:  451
+    Pass: student619
+    zID:  500
+    Pass: student603
+    zID:  559
+    Pass: student228
+    zID:  584
+    Pass: student399
+    zID:  591
+    Pass: student386
+    zID:  611
+    Pass: student893
+    zID:  671
+    Pass: student110
+    zID:  674
+    Pass: student450
+    zID:  708
+    Pass: student430
+    zID:  719
+    Pass: student752
+    zID:  729
+    Pass: student997
+    zID:  752
+    Pass: student678
+    zID:  786
+    Pass: student145
+    zID:  816
+    Pass: student154
+    zID:  864
+    Pass: student752
+    zID:  883
+    Pass: student567
+    zID:  952
+    Pass: student220
+=========================
+COMP4141 18s1
+Staff: 
+    zID:  1082
+    Pass: staff1082
+Student: 
+    zID:  143
+    Pass: student583
+    zID:  544
+    Pass: student750
+=========================
+COMP4141 18s2
+Staff: 
+    zID:  1125
+    Pass: staff1125
+Student: 
+=========================
+COMP4161 17s2
+Staff: 
+    zID:  1007
+    Pass: staff1007
+Student: 
+    zID:  154
+    Pass: student282
+    zID:  207
+    Pass: student384
+    zID:  232
+    Pass: student651
+    zID:  265
+    Pass: student945
+    zID:  273
+    Pass: student727
+    zID:  294
+    Pass: student680
+    zID:  300
+    Pass: student348
+    zID:  303
+    Pass: student453
+    zID:  349
+    Pass: student311
+    zID:  392
+    Pass: student720
+    zID:  486
+    Pass: student991
+    zID:  502
+    Pass: student186
+    zID:  513
+    Pass: student236
+    zID:  517
+    Pass: student305
+    zID:  557
+    Pass: student414
+    zID:  558
+    Pass: student668
+    zID:  562
+    Pass: student874
+    zID:  589
+    Pass: student914
+    zID:  608
+    Pass: student419
+    zID:  612
+    Pass: student655
+    zID:  632
+    Pass: student562
+    zID:  664
+    Pass: student596
+    zID:  671
+    Pass: student110
+    zID:  749
+    Pass: student282
+    zID:  782
+    Pass: student979
+    zID:  814
+    Pass: student864
+    zID:  824
+    Pass: student589
+    zID:  880
+    Pass: student655
+    zID:  888
+    Pass: student319
+    zID:  914
+    Pass: student987
+    zID:  977
+    Pass: student976
+=========================
+COMP4161 18s1
+Staff: 
+    zID:  1085
+    Pass: staff1085
+Student: 
+    zID:  125
+    Pass: student729
+    zID:  139
+    Pass: student572
+    zID:  140
+    Pass: student881
+    zID:  548
+    Pass: student539
+=========================
+COMP4161 18s2
+Staff: 
+    zID:  1103
+    Pass: staff1103
+Student: 
+=========================
+COMP4181 17s2
+Staff: 
+    zID:  1074
+    Pass: staff1074
+Student: 
+    zID:  160
+    Pass: student164
+    zID:  162
+    Pass: student499
+    zID:  172
+    Pass: student209
+    zID:  203
+    Pass: student298
+    zID:  210
+    Pass: student144
+    zID:  235
+    Pass: student581
+    zID:  252
+    Pass: student111
+    zID:  263
+    Pass: student129
+    zID:  308
+    Pass: student894
+    zID:  430
+    Pass: student126
+    zID:  448
+    Pass: student239
+    zID:  453
+    Pass: student488
+    zID:  473
+    Pass: student407
+    zID:  496
+    Pass: student320
+    zID:  497
+    Pass: student762
+    zID:  498
+    Pass: student247
+    zID:  584
+    Pass: student399
+    zID:  598
+    Pass: student749
+    zID:  605
+    Pass: student102
+    zID:  647
+    Pass: student624
+    zID:  654
+    Pass: student545
+    zID:  660
+    Pass: student651
+    zID:  667
+    Pass: student979
+    zID:  693
+    Pass: student392
+    zID:  743
+    Pass: student311
+    zID:  751
+    Pass: student852
+    zID:  753
+    Pass: student207
+    zID:  801
+    Pass: student192
+    zID:  850
+    Pass: student514
+    zID:  909
+    Pass: student444
+    zID:  915
+    Pass: student650
+    zID:  916
+    Pass: student388
+=========================
+COMP4181 18s1
+Staff: 
+    zID:  1204
+    Pass: staff1204
+Student: 
+=========================
+COMP4181 18s2
+Staff: 
+    zID:  79
+    Pass: staff853
+Student: 
+=========================
+COMP4336 17s2
+Staff: 
+    zID:  1018
+    Pass: staff1018
+Student: 
+    zID:  245
+    Pass: student752
+    zID:  294
+    Pass: student680
+    zID:  399
+    Pass: student964
+    zID:  407
+    Pass: student615
+    zID:  419
+    Pass: student911
+    zID:  524
+    Pass: student594
+    zID:  532
+    Pass: student437
+    zID:  632
+    Pass: student562
+    zID:  641
+    Pass: student700
+    zID:  669
+    Pass: student117
+    zID:  703
+    Pass: student147
+    zID:  769
+    Pass: student721
+    zID:  799
+    Pass: student998
+    zID:  842
+    Pass: student141
+    zID:  860
+    Pass: student732
+    zID:  869
+    Pass: student354
+    zID:  877
+    Pass: student313
+    zID:  908
+    Pass: student307
+    zID:  921
+    Pass: student308
+    zID:  957
+    Pass: student921
+    zID:  980
+    Pass: student550
+    zID:  986
+    Pass: student558
+=========================
+COMP4336 18s1
+Staff: 
+    zID:  1063
+    Pass: staff1063
+Student: 
+=========================
+COMP4336 18s2
+Staff: 
+    zID:  98
+    Pass: staff471
+Student: 
+=========================
+COMP4337 17s2
+Staff: 
+    zID:  1088
+    Pass: staff1088
+Student: 
+    zID:  155
+    Pass: student660
+    zID:  263
+    Pass: student129
+    zID:  269
+    Pass: student842
+    zID:  322
+    Pass: student305
+    zID:  323
+    Pass: student598
+    zID:  354
+    Pass: student116
+    zID:  405
+    Pass: student267
+    zID:  410
+    Pass: student133
+    zID:  510
+    Pass: student546
+    zID:  523
+    Pass: student234
+    zID:  617
+    Pass: student128
+    zID:  649
+    Pass: student223
+    zID:  650
+    Pass: student851
+    zID:  694
+    Pass: student875
+    zID:  719
+    Pass: student752
+    zID:  855
+    Pass: student447
+    zID:  861
+    Pass: student404
+    zID:  871
+    Pass: student762
+    zID:  873
+    Pass: student693
+    zID:  893
+    Pass: student258
+    zID:  935
+    Pass: student387
+    zID:  948
+    Pass: student789
+=========================
+COMP4337 18s1
+Staff: 
+    zID:  1132
+    Pass: staff1132
+Student: 
+=========================
+COMP4337 18s2
+Staff: 
+    zID:  1048
+    Pass: staff1048
+Student: 
+=========================
+COMP4418 17s2
+Staff: 
+    zID:  1218
+    Pass: staff1218
+Student: 
+    zID:  156
+    Pass: student410
+    zID:  183
+    Pass: student319
+    zID:  220
+    Pass: student589
+    zID:  356
+    Pass: student658
+    zID:  397
+    Pass: student661
+    zID:  469
+    Pass: student606
+    zID:  488
+    Pass: student324
+    zID:  489
+    Pass: student830
+    zID:  568
+    Pass: student777
+    zID:  581
+    Pass: student642
+    zID:  620
+    Pass: student291
+    zID:  625
+    Pass: student302
+    zID:  644
+    Pass: student299
+    zID:  733
+    Pass: student504
+    zID:  983
+    Pass: student150
+=========================
+COMP4418 18s1
+Staff: 
+    zID:  75
+    Pass: staff165
+Student: 
+=========================
+COMP4418 18s2
+Staff: 
+    zID:  1211
+    Pass: staff1211
+Student: 
+=========================
+COMP4601 17s2
+Staff: 
+    zID:  1017
+    Pass: staff1017
+Student: 
+    zID:  169
+    Pass: student531
+    zID:  177
+    Pass: student313
+    zID:  206
+    Pass: student602
+    zID:  226
+    Pass: student721
+    zID:  233
+    Pass: student433
+    zID:  277
+    Pass: student457
+    zID:  278
+    Pass: student433
+    zID:  316
+    Pass: student513
+    zID:  356
+    Pass: student658
+    zID:  371
+    Pass: student369
+    zID:  389
+    Pass: student949
+    zID:  405
+    Pass: student267
+    zID:  415
+    Pass: student170
+    zID:  419
+    Pass: student911
+    zID:  426
+    Pass: student528
+    zID:  435
+    Pass: student165
+    zID:  471
+    Pass: student824
+    zID:  591
+    Pass: student386
+    zID:  608
+    Pass: student419
+    zID:  616
+    Pass: student992
+    zID:  637
+    Pass: student173
+    zID:  662
+    Pass: student864
+    zID:  664
+    Pass: student596
+    zID:  676
+    Pass: student658
+    zID:  697
+    Pass: student495
+    zID:  726
+    Pass: student222
+    zID:  763
+    Pass: student587
+    zID:  768
+    Pass: student156
+    zID:  823
+    Pass: student654
+    zID:  837
+    Pass: student429
+    zID:  858
+    Pass: student374
+    zID:  900
+    Pass: student432
+    zID:  903
+    Pass: student179
+    zID:  909
+    Pass: student444
+    zID:  945
+    Pass: student956
+    zID:  949
+    Pass: student872
+=========================
+COMP4601 18s1
+Staff: 
+    zID:  87
+    Pass: staff978
+Student: 
+=========================
+COMP4601 18s2
+Staff: 
+    zID:  88
+    Pass: staff833
+Student: 
+=========================
+COMP4904 17s2
+Staff: 
+    zID:  1191
+    Pass: staff1191
+Student: 
+    zID:  163
+    Pass: student831
+    zID:  184
+    Pass: student226
+    zID:  196
+    Pass: student652
+    zID:  207
+    Pass: student384
+    zID:  235
+    Pass: student581
+    zID:  267
+    Pass: student187
+    zID:  290
+    Pass: student614
+    zID:  306
+    Pass: student594
+    zID:  407
+    Pass: student615
+    zID:  422
+    Pass: student611
+    zID:  425
+    Pass: student146
+    zID:  447
+    Pass: student587
+    zID:  579
+    Pass: student428
+    zID:  662
+    Pass: student864
+    zID:  690
+    Pass: student642
+    zID:  696
+    Pass: student937
+    zID:  738
+    Pass: student511
+    zID:  758
+    Pass: student331
+    zID:  778
+    Pass: student790
+    zID:  803
+    Pass: student288
+    zID:  885
+    Pass: student656
+    zID:  892
+    Pass: student322
+    zID:  894
+    Pass: student535
+    zID:  927
+    Pass: student784
+    zID:  936
+    Pass: student228
+    zID:  958
+    Pass: student207
+    zID:  997
+    Pass: student203
+=========================
+COMP4904 18s1
+Staff: 
+    zID:  1198
+    Pass: staff1198
+Student: 
+    zID:  145
+    Pass: student839
+    zID:  538
+    Pass: student639
+=========================
+COMP4904 18s2
+Staff: 
+    zID:  1038
+    Pass: staff1038
+Student: 
+=========================
+COMP4905 17s2
+Staff: 
+    zID:  1189
+    Pass: staff1189
+Student: 
+    zID:  158
+    Pass: student704
+    zID:  192
+    Pass: student814
+    zID:  220
+    Pass: student589
+    zID:  327
+    Pass: student142
+    zID:  384
+    Pass: student319
+    zID:  389
+    Pass: student949
+    zID:  530
+    Pass: student256
+    zID:  533
+    Pass: student974
+    zID:  567
+    Pass: student787
+    zID:  572
+    Pass: student566
+    zID:  574
+    Pass: student668
+    zID:  658
+    Pass: student960
+    zID:  666
+    Pass: student709
+    zID:  719
+    Pass: student752
+    zID:  760
+    Pass: student469
+    zID:  770
+    Pass: student782
+    zID:  772
+    Pass: student421
+    zID:  805
+    Pass: student116
+    zID:  853
+    Pass: student166
+    zID:  968
+    Pass: student856
+    zID:  971
+    Pass: student531
+=========================
+COMP4905 18s1
+Staff: 
+    zID:  1081
+    Pass: staff1081
+Student: 
+    zID:  128
+    Pass: student274
+    zID:  546
+    Pass: student776
+=========================
+COMP4905 18s2
+Staff: 
+    zID:  1062
+    Pass: staff1062
+Student: 
+=========================
+COMP4906 17s2
+Staff: 
+    zID:  1156
+    Pass: staff1156
+Student: 
+    zID:  114
+    Pass: student668
+    zID:  222
+    Pass: student438
+    zID:  237
+    Pass: student390
+    zID:  291
+    Pass: student178
+    zID:  410
+    Pass: student133
+    zID:  411
+    Pass: student858
+    zID:  582
+    Pass: student844
+    zID:  604
+    Pass: student112
+    zID:  653
+    Pass: student243
+    zID:  683
+    Pass: student368
+    zID:  704
+    Pass: student271
+    zID:  857
+    Pass: student625
+    zID:  886
+    Pass: student912
+    zID:  929
+    Pass: student496
+    zID:  984
+    Pass: student819
+    zID:  985
+    Pass: student929
+=========================
+COMP4906 18s1
+Staff: 
+    zID:  69
+    Pass: staff736
+Student: 
+    zID:  545
+    Pass: student763
+    zID:  549
+    Pass: student125
+=========================
+COMP4906 18s2
+Staff: 
+    zID:  1219
+    Pass: staff1219
+Student: 
+=========================
+COMP4920 17s2
+Staff: 
+    zID:  1213
+    Pass: staff1213
+Student: 
+    zID:  109
+    Pass: student672
+    zID:  242
+    Pass: student905
+    zID:  318
+    Pass: student995
+    zID:  429
+    Pass: student829
+    zID:  476
+    Pass: student380
+    zID:  516
+    Pass: student483
+    zID:  527
+    Pass: student997
+    zID:  572
+    Pass: student566
+    zID:  675
+    Pass: student943
+    zID:  698
+    Pass: student420
+    zID:  706
+    Pass: student828
+    zID:  714
+    Pass: student274
+    zID:  734
+    Pass: student524
+    zID:  768
+    Pass: student156
+    zID:  842
+    Pass: student141
+    zID:  917
+    Pass: student203
+    zID:  970
+    Pass: student562
+    zID:  992
+    Pass: student405
+=========================
+COMP4920 18s1
+Staff: 
+    zID:  1012
+    Pass: staff1012
+Student: 
+    zID:  126
+    Pass: student123
+=========================
+COMP4920 18s2
+Staff: 
+    zID:  67
+    Pass: staff751
+Student: 
+=========================
+COMP4930 17s2
+Staff: 
+    zID:  76
+    Pass: staff946
+Student: 
+    zID:  115
+    Pass: student643
+    zID:  165
+    Pass: student914
+    zID:  223
+    Pass: student194
+    zID:  229
+    Pass: student297
+    zID:  349
+    Pass: student311
+    zID:  385
+    Pass: student651
+    zID:  398
+    Pass: student315
+    zID:  470
+    Pass: student277
+    zID:  508
+    Pass: student441
+    zID:  578
+    Pass: student948
+    zID:  613
+    Pass: student351
+    zID:  674
+    Pass: student450
+    zID:  757
+    Pass: student512
+    zID:  772
+    Pass: student421
+    zID:  803
+    Pass: student288
+    zID:  824
+    Pass: student589
+    zID:  900
+    Pass: student432
+    zID:  959
+    Pass: student275
+=========================
+COMP4930 18s1
+Staff: 
+    zID:  1165
+    Pass: staff1165
+Student: 
+=========================
+COMP4930 18s2
+Staff: 
+    zID:  1140
+    Pass: staff1140
+Student: 
+=========================
+COMP4931 17s2
+Staff: 
+    zID:  1113
+    Pass: staff1113
+Student: 
+    zID:  190
+    Pass: student123
+    zID:  242
+    Pass: student905
+    zID:  342
+    Pass: student843
+    zID:  359
+    Pass: student911
+    zID:  503
+    Pass: student383
+    zID:  532
+    Pass: student437
+    zID:  579
+    Pass: student428
+    zID:  592
+    Pass: student160
+    zID:  648
+    Pass: student423
+    zID:  673
+    Pass: student912
+    zID:  676
+    Pass: student658
+    zID:  694
+    Pass: student875
+    zID:  713
+    Pass: student863
+    zID:  725
+    Pass: student325
+    zID:  748
+    Pass: student779
+    zID:  766
+    Pass: student363
+    zID:  864
+    Pass: student752
+    zID:  880
+    Pass: student655
+    zID:  912
+    Pass: student245
+    zID:  988
+    Pass: student768
+=========================
+COMP4931 18s1
+Staff: 
+    zID:  50
+    Pass: staff670
+Student: 
+    zID:  125
+    Pass: student729
+    zID:  138
+    Pass: student176
+=========================
+COMP4931 18s2
+Staff: 
+    zID:  1152
+    Pass: staff1152
+Student: 
+=========================
+COMP4941 17s2
+Staff: 
+    zID:  60
+    Pass: staff765
+Student: 
+    zID:  164
+    Pass: student657
+    zID:  197
+    Pass: student995
+    zID:  203
+    Pass: student298
+    zID:  206
+    Pass: student602
+    zID:  284
+    Pass: student550
+    zID:  289
+    Pass: student469
+    zID:  329
+    Pass: student662
+    zID:  358
+    Pass: student242
+    zID:  359
+    Pass: student911
+    zID:  360
+    Pass: student943
+    zID:  369
+    Pass: student280
+    zID:  439
+    Pass: student572
+    zID:  469
+    Pass: student606
+    zID:  472
+    Pass: student264
+    zID:  473
+    Pass: student407
+    zID:  488
+    Pass: student324
+    zID:  527
+    Pass: student997
+    zID:  536
+    Pass: student321
+    zID:  590
+    Pass: student393
+    zID:  623
+    Pass: student593
+    zID:  702
+    Pass: student657
+    zID:  715
+    Pass: student640
+    zID:  731
+    Pass: student425
+    zID:  735
+    Pass: student778
+    zID:  872
+    Pass: student550
+    zID:  917
+    Pass: student203
+    zID:  941
+    Pass: student689
+    zID:  942
+    Pass: student364
+    zID:  961
+    Pass: student284
+=========================
+COMP4941 18s1
+Staff: 
+    zID:  72
+    Pass: staff390
+Student: 
+    zID:  141
+    Pass: student902
+=========================
+COMP4941 18s2
+Staff: 
+    zID:  1095
+    Pass: staff1095
+Student: 
+=========================
+COMP6441 17s2
+Staff: 
+    zID:  1066
+    Pass: staff1066
+Student: 
+    zID:  105
+    Pass: student940
+    zID:  112
+    Pass: student264
+    zID:  226
+    Pass: student721
+    zID:  241
+    Pass: student142
+    zID:  253
+    Pass: student317
+    zID:  261
+    Pass: student882
+    zID:  331
+    Pass: student707
+    zID:  355
+    Pass: student976
+    zID:  358
+    Pass: student242
+    zID:  373
+    Pass: student827
+    zID:  392
+    Pass: student720
+    zID:  406
+    Pass: student374
+    zID:  478
+    Pass: student174
+    zID:  510
+    Pass: student546
+    zID:  522
+    Pass: student294
+    zID:  536
+    Pass: student321
+    zID:  556
+    Pass: student966
+    zID:  581
+    Pass: student642
+    zID:  627
+    Pass: student112
+    zID:  663
+    Pass: student954
+    zID:  697
+    Pass: student495
+    zID:  702
+    Pass: student657
+    zID:  723
+    Pass: student934
+    zID:  736
+    Pass: student131
+    zID:  739
+    Pass: student716
+    zID:  776
+    Pass: student515
+    zID:  790
+    Pass: student971
+    zID:  796
+    Pass: student610
+    zID:  864
+    Pass: student752
+    zID:  978
+    Pass: student350
+    zID:  985
+    Pass: student929
+=========================
+COMP6441 18s1
+Staff: 
+    zID:  1203
+    Pass: staff1203
+Student: 
+=========================
+COMP6441 18s2
+Staff: 
+    zID:  1043
+    Pass: staff1043
+Student: 
+=========================
+COMP6443 17s2
+Staff: 
+    zID:  1208
+    Pass: staff1208
+Student: 
+    zID:  167
+    Pass: student986
+    zID:  173
+    Pass: student491
+    zID:  203
+    Pass: student298
+    zID:  209
+    Pass: student639
+    zID:  248
+    Pass: student605
+    zID:  272
+    Pass: student589
+    zID:  368
+    Pass: student905
+    zID:  370
+    Pass: student640
+    zID:  376
+    Pass: student278
+    zID:  461
+    Pass: student521
+    zID:  565
+    Pass: student578
+    zID:  586
+    Pass: student448
+    zID:  677
+    Pass: student443
+    zID:  731
+    Pass: student425
+    zID:  781
+    Pass: student303
+    zID:  806
+    Pass: student454
+    zID:  902
+    Pass: student310
+    zID:  911
+    Pass: student222
+    zID:  918
+    Pass: student226
+    zID:  922
+    Pass: student232
+    zID:  926
+    Pass: student678
+    zID:  934
+    Pass: student420
+    zID:  956
+    Pass: student754
+    zID:  989
+    Pass: student547
+=========================
+COMP6443 18s1
+Staff: 
+    zID:  1129
+    Pass: staff1129
+Student: 
+    zID:  124
+    Pass: student284
+    zID:  142
+    Pass: student873
+=========================
+COMP6443 18s2
+Staff: 
+    zID:  1115
+    Pass: staff1115
+Student: 
+=========================
+COMP6445 17s2
+Staff: 
+    zID:  1016
+    Pass: staff1016
+Student: 
+    zID:  107
+    Pass: student673
+    zID:  156
+    Pass: student410
+    zID:  161
+    Pass: student563
+    zID:  182
+    Pass: student706
+    zID:  243
+    Pass: student241
+    zID:  248
+    Pass: student605
+    zID:  259
+    Pass: student371
+    zID:  292
+    Pass: student288
+    zID:  327
+    Pass: student142
+    zID:  364
+    Pass: student412
+    zID:  395
+    Pass: student328
+    zID:  412
+    Pass: student289
+    zID:  452
+    Pass: student874
+    zID:  570
+    Pass: student145
+    zID:  571
+    Pass: student477
+    zID:  593
+    Pass: student151
+    zID:  661
+    Pass: student807
+    zID:  724
+    Pass: student510
+    zID:  791
+    Pass: student812
+    zID:  818
+    Pass: student205
+    zID:  840
+    Pass: student577
+    zID:  870
+    Pass: student431
+    zID:  874
+    Pass: student376
+    zID:  952
+    Pass: student220
+=========================
+COMP6445 18s1
+Staff: 
+    zID:  1151
+    Pass: staff1151
+Student: 
+    zID:  131
+    Pass: student627
+    zID:  552
+    Pass: student571
+=========================
+COMP6445 18s2
+Staff: 
+    zID:  1093
+    Pass: staff1093
+Student: 
+=========================
+COMP6447 17s2
+Staff: 
+    zID:  1025
+    Pass: staff1025
+Student: 
+    zID:  201
+    Pass: student327
+    zID:  214
+    Pass: student268
+    zID:  270
+    Pass: student704
+    zID:  295
+    Pass: student328
+    zID:  416
+    Pass: student673
+    zID:  457
+    Pass: student842
+    zID:  466
+    Pass: student744
+    zID:  610
+    Pass: student274
+    zID:  707
+    Pass: student919
+    zID:  737
+    Pass: student897
+    zID:  852
+    Pass: student326
+    zID:  877
+    Pass: student313
+    zID:  892
+    Pass: student322
+    zID:  931
+    Pass: student269
+    zID:  944
+    Pass: student125
+    zID:  945
+    Pass: student956
+    zID:  975
+    Pass: student164
+    zID:  990
+    Pass: student360
+    zID:  991
+    Pass: student943
+=========================
+COMP6447 18s1
+Staff: 
+    zID:  1094
+    Pass: staff1094
+Student: 
+    zID:  140
+    Pass: student881
+    zID:  146
+    Pass: student499
+    zID:  543
+    Pass: student680
+=========================
+COMP6447 18s2
+Staff: 
+    zID:  1196
+    Pass: staff1196
+Student: 
+=========================
+COMP6448 17s2
+Staff: 
+    zID:  90
+    Pass: staff176
+Student: 
+    zID:  112
+    Pass: student264
+    zID:  159
+    Pass: student557
+    zID:  166
+    Pass: student998
+    zID:  191
+    Pass: student192
+    zID:  193
+    Pass: student780
+    zID:  260
+    Pass: student959
+    zID:  335
+    Pass: student703
+    zID:  388
+    Pass: student157
+    zID:  399
+    Pass: student964
+    zID:  406
+    Pass: student374
+    zID:  477
+    Pass: student594
+    zID:  492
+    Pass: student832
+    zID:  576
+    Pass: student187
+    zID:  585
+    Pass: student642
+    zID:  593
+    Pass: student151
+    zID:  603
+    Pass: student389
+    zID:  660
+    Pass: student651
+    zID:  705
+    Pass: student634
+    zID:  775
+    Pass: student750
+    zID:  807
+    Pass: student563
+    zID:  961
+    Pass: student284
+    zID:  984
+    Pass: student819
+    zID:  996
+    Pass: student740
+=========================
+COMP6448 18s1
+Staff: 
+    zID:  1078
+    Pass: staff1078
+Student: 
+    zID:  127
+    Pass: student237
+    zID:  136
+    Pass: student706
+    zID:  144
+    Pass: student620
+    zID:  534
+    Pass: student800
+    zID:  545
+    Pass: student763
+=========================
+COMP6448 18s2
+Staff: 
+    zID:  1166
+    Pass: staff1166
+Student: 
+=========================
+COMP6449 17s2
+Staff: 
+    zID:  86
+    Pass: staff172
+Student: 
+    zID:  108
+    Pass: student953
+    zID:  156
+    Pass: student410
+    zID:  166
+    Pass: student998
+    zID:  170
+    Pass: student592
+    zID:  173
+    Pass: student491
+    zID:  191
+    Pass: student192
+    zID:  208
+    Pass: student904
+    zID:  268
+    Pass: student608
+    zID:  291
+    Pass: student178
+    zID:  299
+    Pass: student161
+    zID:  336
+    Pass: student231
+    zID:  381
+    Pass: student615
+    zID:  390
+    Pass: student683
+    zID:  426
+    Pass: student528
+    zID:  525
+    Pass: student672
+    zID:  567
+    Pass: student787
+    zID:  586
+    Pass: student448
+    zID:  624
+    Pass: student386
+    zID:  632
+    Pass: student562
+    zID:  636
+    Pass: student317
+    zID:  643
+    Pass: student555
+    zID:  708
+    Pass: student430
+    zID:  792
+    Pass: student550
+    zID:  804
+    Pass: student500
+    zID:  846
+    Pass: student623
+    zID:  875
+    Pass: student506
+    zID:  877
+    Pass: student313
+    zID:  957
+    Pass: student921
+    zID:  981
+    Pass: student675
+=========================
+COMP6449 18s1
+Staff: 
+    zID:  1169
+    Pass: staff1169
+Student: 
+=========================
+COMP6449 18s2
+Staff: 
+    zID:  1069
+    Pass: staff1069
+Student: 
+=========================
+COMP6714 17s2
+Staff: 
+    zID:  1008
+    Pass: staff1008
+Student: 
+    zID:  208
+    Pass: student904
+    zID:  212
+    Pass: student171
+    zID:  241
+    Pass: student142
+    zID:  247
+    Pass: student311
+    zID:  290
+    Pass: student614
+    zID:  302
+    Pass: student880
+    zID:  319
+    Pass: student810
+    zID:  341
+    Pass: student825
+    zID:  374
+    Pass: student452
+    zID:  395
+    Pass: student328
+    zID:  426
+    Pass: student528
+    zID:  478
+    Pass: student174
+    zID:  480
+    Pass: student326
+    zID:  515
+    Pass: student762
+    zID:  516
+    Pass: student483
+    zID:  617
+    Pass: student128
+    zID:  701
+    Pass: student178
+    zID:  733
+    Pass: student504
+    zID:  762
+    Pass: student439
+    zID:  766
+    Pass: student363
+    zID:  776
+    Pass: student515
+    zID:  788
+    Pass: student259
+    zID:  815
+    Pass: student631
+    zID:  851
+    Pass: student622
+    zID:  905
+    Pass: student855
+    zID:  935
+    Pass: student387
+    zID:  949
+    Pass: student872
+    zID:  969
+    Pass: student716
+=========================
+COMP6714 18s1
+Staff: 
+    zID:  1135
+    Pass: staff1135
+Student: 
+    zID:  543
+    Pass: student680
+=========================
+COMP6714 18s2
+Staff: 
+    zID:  1047
+    Pass: staff1047
+Student: 
+=========================
+COMP6733 17s2
+Staff: 
+    zID:  1183
+    Pass: staff1183
+Student: 
+    zID:  196
+    Pass: student652
+    zID:  212
+    Pass: student171
+    zID:  244
+    Pass: student294
+    zID:  305
+    Pass: student637
+    zID:  307
+    Pass: student200
+    zID:  319
+    Pass: student810
+    zID:  343
+    Pass: student551
+    zID:  448
+    Pass: student239
+    zID:  488
+    Pass: student324
+    zID:  621
+    Pass: student500
+    zID:  647
+    Pass: student624
+    zID:  658
+    Pass: student960
+    zID:  732
+    Pass: student180
+    zID:  743
+    Pass: student311
+    zID:  749
+    Pass: student282
+    zID:  830
+    Pass: student770
+    zID:  847
+    Pass: student742
+    zID:  878
+    Pass: student555
+    zID:  962
+    Pass: student356
+    zID:  974
+    Pass: student535
+    zID:  981
+    Pass: student675
+=========================
+COMP6733 18s1
+Staff: 
+    zID:  93
+    Pass: staff225
+Student: 
+    zID:  139
+    Pass: student572
+    zID:  549
+    Pass: student125
+=========================
+COMP6733 18s2
+Staff: 
+    zID:  1187
+    Pass: staff1187
+Student: 
+=========================
+COMP6741 17s2
+Staff: 
+    zID:  1110
+    Pass: staff1110
+Student: 
+    zID:  110
+    Pass: student855
+    zID:  185
+    Pass: student754
+    zID:  193
+    Pass: student780
+    zID:  235
+    Pass: student581
+    zID:  258
+    Pass: student904
+    zID:  358
+    Pass: student242
+    zID:  384
+    Pass: student319
+    zID:  396
+    Pass: student293
+    zID:  403
+    Pass: student210
+    zID:  432
+    Pass: student311
+    zID:  490
+    Pass: student448
+    zID:  563
+    Pass: student853
+    zID:  566
+    Pass: student248
+    zID:  611
+    Pass: student893
+    zID:  685
+    Pass: student581
+    zID:  723
+    Pass: student934
+    zID:  771
+    Pass: student766
+    zID:  795
+    Pass: student687
+    zID:  902
+    Pass: student310
+    zID:  915
+    Pass: student650
+    zID:  926
+    Pass: student678
+    zID:  927
+    Pass: student784
+    zID:  930
+    Pass: student583
+    zID:  938
+    Pass: student247
+    zID:  972
+    Pass: student375
+=========================
+COMP6741 18s1
+Staff: 
+    zID:  1162
+    Pass: staff1162
+Student: 
+    zID:  535
+    Pass: student372
+=========================
+COMP6741 18s2
+Staff: 
+    zID:  1199
+    Pass: staff1199
+Student: 
+=========================
+COMP6752 17s2
+Staff: 
+    zID:  1192
+    Pass: staff1192
+Student: 
+    zID:  199
+    Pass: student984
+    zID:  217
+    Pass: student916
+    zID:  219
+    Pass: student186
+    zID:  309
+    Pass: student768
+    zID:  376
+    Pass: student278
+    zID:  444
+    Pass: student807
+    zID:  468
+    Pass: student613
+    zID:  516
+    Pass: student483
+    zID:  571
+    Pass: student477
+    zID:  619
+    Pass: student721
+    zID:  631
+    Pass: student189
+    zID:  649
+    Pass: student223
+    zID:  660
+    Pass: student651
+    zID:  704
+    Pass: student271
+    zID:  725
+    Pass: student325
+    zID:  749
+    Pass: student282
+    zID:  815
+    Pass: student631
+    zID:  841
+    Pass: student884
+    zID:  861
+    Pass: student404
+    zID:  889
+    Pass: student305
+=========================
+COMP6752 18s1
+Staff: 
+    zID:  57
+    Pass: staff328
+Student: 
+=========================
+COMP6752 18s2
+Staff: 
+    zID:  61
+    Pass: staff973
+Student: 
+=========================
+COMP6771 17s2
+Staff: 
+    zID:  1027
+    Pass: staff1027
+Student: 
+    zID:  163
+    Pass: student831
+    zID:  180
+    Pass: student747
+    zID:  190
+    Pass: student123
+    zID:  202
+    Pass: student141
+    zID:  280
+    Pass: student369
+    zID:  293
+    Pass: student856
+    zID:  409
+    Pass: student138
+    zID:  452
+    Pass: student874
+    zID:  462
+    Pass: student960
+    zID:  479
+    Pass: student132
+    zID:  506
+    Pass: student727
+    zID:  507
+    Pass: student728
+    zID:  523
+    Pass: student234
+    zID:  656
+    Pass: student854
+    zID:  734
+    Pass: student524
+    zID:  789
+    Pass: student642
+    zID:  863
+    Pass: student361
+    zID:  868
+    Pass: student831
+    zID:  902
+    Pass: student310
+    zID:  929
+    Pass: student496
+    zID:  956
+    Pass: student754
+=========================
+COMP6771 18s1
+Staff: 
+    zID:  1216
+    Pass: staff1216
+Student: 
+    zID:  134
+    Pass: student434
+=========================
+COMP6771 18s2
+Staff: 
+    zID:  1035
+    Pass: staff1035
+Student: 
+=========================
+COMP6841 17s2
+Staff: 
+    zID:  1056
+    Pass: staff1056
+Student: 
+    zID:  266
+    Pass: student887
+    zID:  269
+    Pass: student842
+    zID:  280
+    Pass: student369
+    zID:  305
+    Pass: student637
+    zID:  314
+    Pass: student914
+    zID:  344
+    Pass: student769
+    zID:  378
+    Pass: student397
+    zID:  418
+    Pass: student306
+    zID:  440
+    Pass: student470
+    zID:  451
+    Pass: student619
+    zID:  467
+    Pass: student505
+    zID:  482
+    Pass: student917
+    zID:  512
+    Pass: student309
+    zID:  554
+    Pass: student902
+    zID:  601
+    Pass: student167
+    zID:  609
+    Pass: student913
+    zID:  651
+    Pass: student904
+    zID:  666
+    Pass: student709
+    zID:  692
+    Pass: student931
+    zID:  709
+    Pass: student734
+    zID:  716
+    Pass: student680
+    zID:  847
+    Pass: student742
+    zID:  848
+    Pass: student579
+    zID:  897
+    Pass: student503
+    zID:  973
+    Pass: student513
+    zID:  985
+    Pass: student929
+=========================
+COMP6841 18s1
+Staff: 
+    zID:  1045
+    Pass: staff1045
+Student: 
+    zID:  136
+    Pass: student706
+=========================
+COMP6841 18s2
+Staff: 
+    zID:  1176
+    Pass: staff1176
+Student: 
+=========================
+COMP6843 17s2
+Staff: 
+    zID:  1006
+    Pass: staff1006
+Student: 
+    zID:  113
+    Pass: student376
+    zID:  148
+    Pass: student867
+    zID:  229
+    Pass: student297
+    zID:  281
+    Pass: student298
+    zID:  301
+    Pass: student389
+    zID:  319
+    Pass: student810
+    zID:  324
+    Pass: student160
+    zID:  340
+    Pass: student993
+    zID:  380
+    Pass: student453
+    zID:  640
+    Pass: student968
+    zID:  712
+    Pass: student646
+    zID:  714
+    Pass: student274
+    zID:  767
+    Pass: student977
+    zID:  779
+    Pass: student176
+    zID:  807
+    Pass: student563
+    zID:  851
+    Pass: student622
+    zID:  872
+    Pass: student550
+    zID:  884
+    Pass: student506
+    zID:  913
+    Pass: student587
+=========================
+COMP6843 18s1
+Staff: 
+    zID:  1032
+    Pass: staff1032
+Student: 
+=========================
+COMP6843 18s2
+Staff: 
+    zID:  71
+    Pass: staff875
+Student: 
+=========================
+COMP6845 17s2
+Staff: 
+    zID:  1059
+    Pass: staff1059
+Student: 
+    zID:  166
+    Pass: student998
+    zID:  185
+    Pass: student754
+    zID:  326
+    Pass: student101
+    zID:  350
+    Pass: student116
+    zID:  362
+    Pass: student662
+    zID:  392
+    Pass: student720
+    zID:  401
+    Pass: student267
+    zID:  475
+    Pass: student324
+    zID:  491
+    Pass: student715
+    zID:  509
+    Pass: student441
+    zID:  513
+    Pass: student236
+    zID:  553
+    Pass: student568
+    zID:  556
+    Pass: student966
+    zID:  583
+    Pass: student887
+    zID:  689
+    Pass: student795
+    zID:  727
+    Pass: student405
+    zID:  765
+    Pass: student646
+    zID:  801
+    Pass: student192
+    zID:  833
+    Pass: student228
+    zID:  860
+    Pass: student732
+    zID:  875
+    Pass: student506
+    zID:  887
+    Pass: student632
+    zID:  947
+    Pass: student844
+=========================
+COMP6845 18s1
+Staff: 
+    zID:  1215
+    Pass: staff1215
+Student: 
+    zID:  142
+    Pass: student873
+=========================
+COMP6845 18s2
+Staff: 
+    zID:  56
+    Pass: staff236
+Student: 
+=========================
+COMP9242 17s2
+Staff: 
+    zID:  1022
+    Pass: staff1022
+Student: 
+    zID:  165
+    Pass: student914
+    zID:  191
+    Pass: student192
+    zID:  214
+    Pass: student268
+    zID:  268
+    Pass: student608
+    zID:  287
+    Pass: student806
+    zID:  312
+    Pass: student864
+    zID:  317
+    Pass: student894
+    zID:  388
+    Pass: student157
+    zID:  406
+    Pass: student374
+    zID:  415
+    Pass: student170
+    zID:  460
+    Pass: student612
+    zID:  484
+    Pass: student981
+    zID:  493
+    Pass: student488
+    zID:  518
+    Pass: student949
+    zID:  521
+    Pass: student935
+    zID:  574
+    Pass: student668
+    zID:  575
+    Pass: student544
+    zID:  577
+    Pass: student548
+    zID:  594
+    Pass: student922
+    zID:  614
+    Pass: student961
+    zID:  658
+    Pass: student960
+    zID:  707
+    Pass: student919
+    zID:  709
+    Pass: student734
+    zID:  942
+    Pass: student364
+    zID:  988
+    Pass: student768
+=========================
+COMP9242 18s1
+Staff: 
+    zID:  91
+    Pass: staff647
+Student: 
+=========================
+COMP9242 18s2
+Staff: 
+    zID:  84
+    Pass: staff297
+Student: 
+=========================
+COMP9243 17s2
+Staff: 
+    zID:  1067
+    Pass: staff1067
+Student: 
+    zID:  172
+    Pass: student209
+    zID:  185
+    Pass: student754
+    zID:  187
+    Pass: student322
+    zID:  190
+    Pass: student123
+    zID:  195
+    Pass: student177
+    zID:  254
+    Pass: student279
+    zID:  324
+    Pass: student160
+    zID:  389
+    Pass: student949
+    zID:  391
+    Pass: student162
+    zID:  400
+    Pass: student664
+    zID:  403
+    Pass: student210
+    zID:  409
+    Pass: student138
+    zID:  433
+    Pass: student423
+    zID:  489
+    Pass: student830
+    zID:  554
+    Pass: student902
+    zID:  562
+    Pass: student874
+    zID:  611
+    Pass: student893
+    zID:  659
+    Pass: student567
+    zID:  676
+    Pass: student658
+    zID:  686
+    Pass: student563
+    zID:  741
+    Pass: student736
+    zID:  755
+    Pass: student336
+    zID:  831
+    Pass: student942
+    zID:  860
+    Pass: student732
+    zID:  870
+    Pass: student431
+=========================
+COMP9243 18s1
+Staff: 
+    zID:  1090
+    Pass: staff1090
+Student: 
+    zID:  544
+    Pass: student750
+=========================
+COMP9243 18s2
+Staff: 
+    zID:  1121
+    Pass: staff1121
+Student: 
+=========================
+COMP9315 17s2
+Staff: 
+    zID:  1064
+    Pass: staff1064
+Student: 
+    zID:  104
+    Pass: student403
+    zID:  198
+    Pass: student396
+    zID:  230
+    Pass: student375
+    zID:  377
+    Pass: student879
+    zID:  493
+    Pass: student488
+    zID:  494
+    Pass: student407
+    zID:  530
+    Pass: student256
+    zID:  622
+    Pass: student635
+    zID:  626
+    Pass: student257
+    zID:  682
+    Pass: student244
+    zID:  718
+    Pass: student395
+    zID:  742
+    Pass: student705
+    zID:  770
+    Pass: student782
+    zID:  847
+    Pass: student742
+    zID:  976
+    Pass: student930
+=========================
+COMP9315 18s1
+Staff: 
+    zID:  1010
+    Pass: staff1010
+Student: 
+    zID:  124
+    Pass: student284
+    zID:  134
+    Pass: student434
+    zID:  539
+    Pass: student891
+    zID:  540
+    Pass: student140
+    zID:  543
+    Pass: student680
+    zID:  549
+    Pass: student125
+=========================
+COMP9315 18s2
+Staff: 
+    zID:  1175
+    Pass: staff1175
+Student: 
+=========================
+COMP9318 17s2
+Staff: 
+    zID:  1217
+    Pass: staff1217
+Student: 
+    zID:  150
+    Pass: student238
+    zID:  221
+    Pass: student121
+    zID:  309
+    Pass: student768
+    zID:  348
+    Pass: student669
+    zID:  563
+    Pass: student853
+    zID:  571
+    Pass: student477
+    zID:  602
+    Pass: student729
+    zID:  621
+    Pass: student500
+    zID:  708
+    Pass: student430
+    zID:  723
+    Pass: student934
+    zID:  861
+    Pass: student404
+    zID:  995
+    Pass: student377
+    zID:  997
+    Pass: student203
+=========================
+COMP9318 18s1
+Staff: 
+    zID:  1117
+    Pass: staff1117
+Student: 
+=========================
+COMP9318 18s2
+Staff: 
+    zID:  1167
+    Pass: staff1167
+Student: 
+=========================
+COMP9319 17s2
+Staff: 
+    zID:  81
+    Pass: staff339
+Student: 
+    zID:  113
+    Pass: student376
+    zID:  273
+    Pass: student727
+    zID:  291
+    Pass: student178
+    zID:  317
+    Pass: student894
+    zID:  376
+    Pass: student278
+    zID:  398
+    Pass: student315
+    zID:  401
+    Pass: student267
+    zID:  402
+    Pass: student615
+    zID:  487
+    Pass: student685
+    zID:  495
+    Pass: student382
+    zID:  603
+    Pass: student389
+    zID:  775
+    Pass: student750
+    zID:  815
+    Pass: student631
+    zID:  816
+    Pass: student154
+    zID:  828
+    Pass: student709
+    zID:  849
+    Pass: student595
+    zID:  871
+    Pass: student762
+    zID:  876
+    Pass: student513
+    zID:  882
+    Pass: student712
+    zID:  903
+    Pass: student179
+    zID:  925
+    Pass: student711
+    zID:  932
+    Pass: student678
+    zID:  937
+    Pass: student324
+    zID:  963
+    Pass: student419
+    zID:  965
+    Pass: student527
+    zID:  966
+    Pass: student919
+=========================
+COMP9319 18s1
+Staff: 
+    zID:  1134
+    Pass: staff1134
+Student: 
+=========================
+COMP9319 18s2
+Staff: 
+    zID:  1118
+    Pass: staff1118
+Student: 
+=========================
+COMP9321 17s2
+Staff: 
+    zID:  1109
+    Pass: staff1109
+Student: 
+    zID:  177
+    Pass: student313
+    zID:  266
+    Pass: student887
+    zID:  283
+    Pass: student462
+    zID:  287
+    Pass: student806
+    zID:  327
+    Pass: student142
+    zID:  367
+    Pass: student397
+    zID:  368
+    Pass: student905
+    zID:  369
+    Pass: student280
+    zID:  372
+    Pass: student232
+    zID:  390
+    Pass: student683
+    zID:  398
+    Pass: student315
+    zID:  407
+    Pass: student615
+    zID:  455
+    Pass: student629
+    zID:  465
+    Pass: student166
+    zID:  474
+    Pass: student901
+    zID:  588
+    Pass: student908
+    zID:  593
+    Pass: student151
+    zID:  601
+    Pass: student167
+    zID:  661
+    Pass: student807
+    zID:  667
+    Pass: student979
+    zID:  695
+    Pass: student818
+    zID:  827
+    Pass: student730
+    zID:  874
+    Pass: student376
+    zID:  884
+    Pass: student506
+    zID:  885
+    Pass: student656
+    zID:  894
+    Pass: student535
+    zID:  975
+    Pass: student164
+=========================
+COMP9321 18s1
+Staff: 
+    zID:  1182
+    Pass: staff1182
+Student: 
+=========================
+COMP9321 18s2
+Staff: 
+    zID:  1000
+    Pass: staff1000
+Student: 
+=========================
+COMP9322 17s2
+Staff: 
+    zID:  1054
+    Pass: staff1054
+Student: 
+    zID:  107
+    Pass: student673
+    zID:  209
+    Pass: student639
+    zID:  219
+    Pass: student186
+    zID:  258
+    Pass: student904
+    zID:  268
+    Pass: student608
+    zID:  275
+    Pass: student610
+    zID:  320
+    Pass: student260
+    zID:  367
+    Pass: student397
+    zID:  386
+    Pass: student526
+    zID:  443
+    Pass: student701
+    zID:  531
+    Pass: student736
+    zID:  558
+    Pass: student668
+    zID:  662
+    Pass: student864
+    zID:  719
+    Pass: student752
+    zID:  889
+    Pass: student305
+    zID:  940
+    Pass: student649
+    zID:  964
+    Pass: student191
+    zID:  993
+    Pass: student566
+=========================
+COMP9322 18s1
+Staff: 
+    zID:  1127
+    Pass: staff1127
+Student: 
+=========================
+COMP9322 18s2
+Staff: 
+    zID:  96
+    Pass: staff336
+Student: 
+=========================
+COMP9323 17s2
+Staff: 
+    zID:  1042
+    Pass: staff1042
+Student: 
+    zID:  108
+    Pass: student953
+    zID:  171
+    Pass: student175
+    zID:  450
+    Pass: student302
+    zID:  574
+    Pass: student668
+    zID:  579
+    Pass: student428
+    zID:  598
+    Pass: student749
+    zID:  626
+    Pass: student257
+    zID:  635
+    Pass: student710
+    zID:  747
+    Pass: student379
+    zID:  793
+    Pass: student396
+    zID:  806
+    Pass: student454
+    zID:  850
+    Pass: student514
+    zID:  920
+    Pass: student311
+    zID:  937
+    Pass: student324
+=========================
+COMP9323 18s1
+Staff: 
+    zID:  1033
+    Pass: staff1033
+Student: 
+=========================
+COMP9323 18s2
+Staff: 
+    zID:  1133
+    Pass: staff1133
+Student: 
+=========================
+COMP9332 17s2
+Staff: 
+    zID:  1207
+    Pass: staff1207
+Student: 
+    zID:  238
+    Pass: student573
+    zID:  311
+    Pass: student146
+    zID:  351
+    Pass: student730
+    zID:  359
+    Pass: student911
+    zID:  364
+    Pass: student412
+    zID:  385
+    Pass: student651
+    zID:  406
+    Pass: student374
+    zID:  409
+    Pass: student138
+    zID:  434
+    Pass: student947
+    zID:  514
+    Pass: student924
+    zID:  520
+    Pass: student253
+    zID:  532
+    Pass: student437
+    zID:  594
+    Pass: student922
+    zID:  598
+    Pass: student749
+    zID:  633
+    Pass: student679
+    zID:  639
+    Pass: student497
+    zID:  640
+    Pass: student968
+    zID:  669
+    Pass: student117
+    zID:  710
+    Pass: student687
+    zID:  729
+    Pass: student997
+    zID:  742
+    Pass: student705
+    zID:  759
+    Pass: student765
+    zID:  761
+    Pass: student288
+    zID:  795
+    Pass: student687
+    zID:  810
+    Pass: student251
+    zID:  834
+    Pass: student314
+    zID:  850
+    Pass: student514
+    zID:  875
+    Pass: student506
+    zID:  956
+    Pass: student754
+    zID:  972
+    Pass: student375
+    zID:  982
+    Pass: student183
+    zID:  995
+    Pass: student377
+=========================
+COMP9332 18s1
+Staff: 
+    zID:  1021
+    Pass: staff1021
+Student: 
+=========================
+COMP9332 18s2
+Staff: 
+    zID:  1168
+    Pass: staff1168
+Student: 
+=========================
+COMP9333 17s2
+Staff: 
+    zID:  1044
+    Pass: staff1044
+Student: 
+    zID:  100
+    Pass: student228
+    zID:  116
+    Pass: student971
+    zID:  149
+    Pass: student753
+    zID:  158
+    Pass: student704
+    zID:  179
+    Pass: student347
+    zID:  182
+    Pass: student706
+    zID:  187
+    Pass: student322
+    zID:  223
+    Pass: student194
+    zID:  274
+    Pass: student787
+    zID:  291
+    Pass: student178
+    zID:  297
+    Pass: student531
+    zID:  304
+    Pass: student507
+    zID:  312
+    Pass: student864
+    zID:  336
+    Pass: student231
+    zID:  341
+    Pass: student825
+    zID:  376
+    Pass: student278
+    zID:  411
+    Pass: student858
+    zID:  419
+    Pass: student911
+    zID:  462
+    Pass: student960
+    zID:  465
+    Pass: student166
+    zID:  468
+    Pass: student613
+    zID:  506
+    Pass: student727
+    zID:  525
+    Pass: student672
+    zID:  530
+    Pass: student256
+    zID:  559
+    Pass: student228
+    zID:  584
+    Pass: student399
+    zID:  611
+    Pass: student893
+    zID:  625
+    Pass: student302
+    zID:  638
+    Pass: student131
+    zID:  646
+    Pass: student988
+    zID:  670
+    Pass: student271
+    zID:  717
+    Pass: student193
+    zID:  729
+    Pass: student997
+    zID:  745
+    Pass: student301
+    zID:  773
+    Pass: student380
+    zID:  802
+    Pass: student970
+    zID:  868
+    Pass: student831
+    zID:  950
+    Pass: student409
+    zID:  959
+    Pass: student275
+=========================
+COMP9333 18s1
+Staff: 
+    zID:  1124
+    Pass: staff1124
+Student: 
+=========================
+COMP9333 18s2
+Staff: 
+    zID:  1099
+    Pass: staff1099
+Student: 
+=========================
+COMP9334 17s2
+Staff: 
+    zID:  1009
+    Pass: staff1009
+Student: 
+    zID:  100
+    Pass: student228
+    zID:  115
+    Pass: student643
+    zID:  120
+    Pass: student652
+    zID:  197
+    Pass: student995
+    zID:  276
+    Pass: student725
+    zID:  281
+    Pass: student298
+    zID:  407
+    Pass: student615
+    zID:  436
+    Pass: student213
+    zID:  449
+    Pass: student223
+    zID:  528
+    Pass: student907
+    zID:  584
+    Pass: student399
+    zID:  604
+    Pass: student112
+    zID:  683
+    Pass: student368
+    zID:  695
+    Pass: student818
+    zID:  698
+    Pass: student420
+    zID:  726
+    Pass: student222
+    zID:  760
+    Pass: student469
+    zID:  780
+    Pass: student740
+    zID:  900
+    Pass: student432
+    zID:  925
+    Pass: student711
+    zID:  927
+    Pass: student784
+    zID:  934
+    Pass: student420
+    zID:  944
+    Pass: student125
+    zID:  960
+    Pass: student188
+    zID:  975
+    Pass: student164
+    zID:  986
+    Pass: student558
+=========================
+COMP9334 18s1
+Staff: 
+    zID:  1120
+    Pass: staff1120
+Student: 
+    zID:  543
+    Pass: student680
+=========================
+COMP9334 18s2
+Staff: 
+    zID:  1214
+    Pass: staff1214
+Student: 
+=========================
+COMP9417 17s2
+Staff: 
+    zID:  1037
+    Pass: staff1037
+Student: 
+    zID:  178
+    Pass: student451
+    zID:  251
+    Pass: student206
+    zID:  279
+    Pass: student716
+    zID:  342
+    Pass: student843
+    zID:  365
+    Pass: student954
+    zID:  484
+    Pass: student981
+    zID:  487
+    Pass: student685
+    zID:  505
+    Pass: student374
+    zID:  516
+    Pass: student483
+    zID:  579
+    Pass: student428
+    zID:  596
+    Pass: student348
+    zID:  629
+    Pass: student921
+    zID:  695
+    Pass: student818
+    zID:  753
+    Pass: student207
+    zID:  912
+    Pass: student245
+    zID:  999
+    Pass: student975
+=========================
+COMP9417 18s1
+Staff: 
+    zID:  1190
+    Pass: staff1190
+Student: 
+=========================
+COMP9417 18s2
+Staff: 
+    zID:  1173
+    Pass: staff1173
+Student: 
+=========================
+COMP9444 17s2
+Staff: 
+    zID:  1128
+    Pass: staff1128
+Student: 
+    zID:  116
+    Pass: student971
+    zID:  208
+    Pass: student904
+    zID:  222
+    Pass: student438
+    zID:  247
+    Pass: student311
+    zID:  273
+    Pass: student727
+    zID:  310
+    Pass: student842
+    zID:  448
+    Pass: student239
+    zID:  457
+    Pass: student842
+    zID:  514
+    Pass: student924
+    zID:  527
+    Pass: student997
+    zID:  555
+    Pass: student162
+    zID:  618
+    Pass: student203
+    zID:  619
+    Pass: student721
+    zID:  630
+    Pass: student269
+    zID:  696
+    Pass: student937
+    zID:  702
+    Pass: student657
+    zID:  720
+    Pass: student597
+    zID:  739
+    Pass: student716
+    zID:  765
+    Pass: student646
+    zID:  805
+    Pass: student116
+    zID:  814
+    Pass: student864
+    zID:  856
+    Pass: student937
+    zID:  883
+    Pass: student567
+    zID:  938
+    Pass: student247
+    zID:  953
+    Pass: student224
+=========================
+COMP9444 18s1
+Staff: 
+    zID:  1003
+    Pass: staff1003
+Student: 
+    zID:  141
+    Pass: student902
+=========================
+COMP9444 18s2
+Staff: 
+    zID:  1100
+    Pass: staff1100
+Student: 
+=========================
+COMP9447 17s2
+Staff: 
+    zID:  1097
+    Pass: staff1097
+Student: 
+    zID:  108
+    Pass: student953
+    zID:  166
+    Pass: student998
+    zID:  175
+    Pass: student948
+    zID:  205
+    Pass: student956
+    zID:  239
+    Pass: student964
+    zID:  254
+    Pass: student279
+    zID:  288
+    Pass: student144
+    zID:  292
+    Pass: student288
+    zID:  315
+    Pass: student477
+    zID:  379
+    Pass: student542
+    zID:  394
+    Pass: student225
+    zID:  438
+    Pass: student129
+    zID:  453
+    Pass: student488
+    zID:  454
+    Pass: student513
+    zID:  463
+    Pass: student485
+    zID:  514
+    Pass: student924
+    zID:  555
+    Pass: student162
+    zID:  597
+    Pass: student280
+    zID:  654
+    Pass: student545
+    zID:  659
+    Pass: student567
+    zID:  667
+    Pass: student979
+    zID:  704
+    Pass: student271
+    zID:  807
+    Pass: student563
+    zID:  821
+    Pass: student839
+    zID:  844
+    Pass: student587
+    zID:  908
+    Pass: student307
+    zID:  909
+    Pass: student444
+    zID:  954
+    Pass: student368
+    zID:  973
+    Pass: student513
+=========================
+COMP9447 18s1
+Staff: 
+    zID:  1072
+    Pass: staff1072
+Student: 
+    zID:  146
+    Pass: student499
+=========================
+COMP9447 18s2
+Staff: 
+    zID:  1084
+    Pass: staff1084
+Student: 
+=========================
+COMP9517 17s2
+Staff: 
+    zID:  52
+    Pass: staff342
+Student: 
+    zID:  114
+    Pass: student668
+    zID:  118
+    Pass: student916
+    zID:  230
+    Pass: student375
+    zID:  252
+    Pass: student111
+    zID:  276
+    Pass: student725
+    zID:  334
+    Pass: student291
+    zID:  342
+    Pass: student843
+    zID:  360
+    Pass: student943
+    zID:  383
+    Pass: student296
+    zID:  414
+    Pass: student985
+    zID:  468
+    Pass: student613
+    zID:  484
+    Pass: student981
+    zID:  518
+    Pass: student949
+    zID:  534
+    Pass: student800
+    zID:  811
+    Pass: student926
+    zID:  832
+    Pass: student861
+    zID:  844
+    Pass: student587
+    zID:  891
+    Pass: student191
+    zID:  906
+    Pass: student536
+    zID:  912
+    Pass: student245
+    zID:  929
+    Pass: student496
+=========================
+COMP9517 18s1
+Staff: 
+    zID:  1153
+    Pass: staff1153
+Student: 
+    zID:  544
+    Pass: student750
+=========================
+COMP9517 18s2
+Staff: 
+    zID:  1206
+    Pass: staff1206
+Student: 
+=========================
+COMP9844 17s2
+Staff: 
+    zID:  1049
+    Pass: staff1049
+Student: 
+    zID:  101
+    Pass: student756
+    zID:  164
+    Pass: student657
+    zID:  197
+    Pass: student995
+    zID:  206
+    Pass: student602
+    zID:  235
+    Pass: student581
+    zID:  236
+    Pass: student548
+    zID:  243
+    Pass: student241
+    zID:  250
+    Pass: student546
+    zID:  311
+    Pass: student146
+    zID:  318
+    Pass: student995
+    zID:  394
+    Pass: student225
+    zID:  395
+    Pass: student328
+    zID:  458
+    Pass: student177
+    zID:  625
+    Pass: student302
+    zID:  691
+    Pass: student710
+    zID:  718
+    Pass: student395
+    zID:  743
+    Pass: student311
+    zID:  803
+    Pass: student288
+    zID:  813
+    Pass: student902
+    zID:  829
+    Pass: student490
+    zID:  835
+    Pass: student570
+    zID:  840
+    Pass: student577
+    zID:  842
+    Pass: student141
+    zID:  851
+    Pass: student622
+    zID:  852
+    Pass: student326
+    zID:  857
+    Pass: student625
+    zID:  925
+    Pass: student711
+    zID:  966
+    Pass: student919
+=========================
+COMP9844 18s1
+Staff: 
+    zID:  1075
+    Pass: staff1075
+Student: 
+    zID:  145
+    Pass: student839
+=========================
+COMP9844 18s2
+Staff: 
+    zID:  1001
+    Pass: staff1001
+Student: 
+=========================

@@ -1,0 +1,105 @@
+{% extends "base.html" %} {% block content %}
+
+    <link rel="stylesheet" href="../static/main.css">
+    <div class="content-wrapper col-md-8 col-sm-10">
+        <h1>{{ title }}</h1>
+        {% if survey %}
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    <span style="padding-bottom: 30px"><b><i>{{ message }}</i></b></span>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        <p>Please fill in the survey below by responding appropriately for each question and clicking the "Submit" button once you are finished.
+            <br> (* = mandatory question)
+        </p>
+
+        <form name="fill_survey_form" id="fill_survey" method="POST">
+            <input type="hidden" name="answered_questions" value="">
+            {% if open_question_list %}
+                <h3>Open Ended Questions</h3>
+                {% if user.is_student() %}
+                    <ol>
+                        {% for q in open_question_list %}
+                            <li>
+                                <b><span style="padding: 20px">{{ q.get_question() }}{% if q.is_mandatory() %} * {% endif %} </span></b>
+                                <br>
+                                <br>
+                                <span style="padding: 20px">
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><span class="fa fa-pencil-square-o"></span></span>
+                                        <input type="textfield" class="form-control" name="answer_{{ q.get_question_id() }}" value="" onclick="document.fill_survey_form.answered_questions.value+=' {{ q.get_question_id() }} '">
+                                    </div>
+                                </span>
+                                <br>
+                            </li>
+                        {% endfor %}
+                    </ol>
+                {% else %}
+                    <ol>
+                        {% for q in open_question_list %}
+                            <li><b><span style="padding: 20px">{{ q.get_question() }}{% if q.is_mandatory() %} * {% endif %}</span></b>
+                            <br>
+                            <span style="padding: 20px">
+                                <div class="input-group">
+                                    <input type="textfield" class="form-control" name="answer_{{ q.get_question_id() }}" value="" disabled>
+                                </div>
+                            </span>
+                            <br>
+                        </li>
+                    {% endfor %}
+                </ol>
+            {% endif %}
+            
+        {% endif %}
+        {% if mc_question_list %}
+            <h3>Multiple Choice Questions</h3>
+            <ol>
+                {% if user.is_student() %}
+                    {% for q in mc_question_list %}
+                            <span style="padding: 20px"><b>{{ q.get_question() }} {% if q.is_mandatory() %} * {% endif %}</b></span>
+                        <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_1() }}" onclick="document.fill_survey_form.answered_questions.value+=' {{ q.get_question_id() }} '"><span style="padding: 20px"><i>{{ q.get_answer_1() }}</i></span>
+                        <br>
+                        <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_2() }}" onclick="document.fill_survey_form.answered_questions.value+=' {{ q.get_question_id() }} '"><span style="padding: 20px"><i>{{ q.get_answer_2() }}</i></span>
+                        <br>
+                        <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_3() }}" onclick="document.fill_survey_form.answered_questions.value+=' {{ q.get_question_id() }} '"><span style="padding: 20px"><i>{{ q.get_answer_3() }}</i></span>
+                        <br>
+                        <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_4() }}" onclick="document.fill_survey_form.answered_questions.value+=' {{ q.get_question_id() }} '"><span style="padding: 20px"><i>{{ q.get_answer_4() }}</i></span>
+                        <br>
+                        <br>
+                    {% endfor %}
+                </li>
+            {% else %}
+                    {% for q in mc_question_list %}
+                        <li><span style="padding: 20px"><b>{{ q.get_question() }}</span></b>
+                        <br>
+                    <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_1() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_1() }}</i></span>
+                    <br>
+                    <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_2() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_2() }}</i></span>
+                    <br>
+                    <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_3() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_3() }}</i></span>
+                    <br>
+                    <input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_4() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_4() }}</i></span>
+                    <br><br>
+                    </li>
+                {% endfor %}
+        {% endif %}
+    {% endif %}
+    {% if user.is_student() %}
+        <input type="submit" value="Submit Survey!" class="btn btn-default">
+    {% endif %}
+</form>
+{% else %}
+<p>There must be an error somewhere. Please go back.</p>
+{% endif %}
+<br>
+{% if user.is_admin() %}
+<form action="{{ url_for('close_entry') }}" method=post class=close-entry onsubmit="return confirm('Are you sure you wish to close this survey?');">
+    <input type="hidden" name="entry_id" value="{{ survey.survey_id }}">
+    <input type="submit" value="Close this survey" class="btn btn-default" style="background-color: #dc3545;" />
+</form>
+{% endif %}
+</div>
+<!--content-wrapper-->
+{% endblock %}

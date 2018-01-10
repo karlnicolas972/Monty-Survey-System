@@ -1,0 +1,22 @@
+<html>
+	<head>
+		{% if title %}
+		<title>{{ title }} - Monty Survey System</title>
+		{% else %}
+		<title>Welcome to Monty Survey System!</title>
+		{% endif %}
+		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+		<link rel="stylesheet" href="static/main.css">
+	</head>
+	<body>
+		<div class="container">
+			<br><br>
+			{% block title %}404: Not found{% endblock %}
+			{% block body %}
+  				<h1>Just what do you think you're doing, Dave?</h1>
+  				<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.<p><a href="{{ url_for('login') }}">Back to earth</a>
+			{% endblock %}
+		</div>
+	</body>
+</html>

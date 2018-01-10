@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Add a Question</h1>
+
+{% with messages = get_flashed_messages() %}
+	{% if messages %}
+		{% for message in messages %}
+			<b><i>{{ message }}</i></b>
+		{% endfor %}
+	{% endif %}
+{% endwith %}
+
+<form name="get_question" method="POST">
+	<b>Which type of question are you looking to add?</b>
+	<input type="radio" name="question_type" value="optional" checked><i> An optional question </i>
+	<input type="radio" name="question_type" value="mandatory"><i> A mandatory question </i>
+	<br>
+	<b>How should the question be answered?</b>
+	<input type="radio" name="response_type" value="multiple_choice" checked onclick="showAnswers()"><i> Multiple Choice </i>
+	<input type="radio" name="response_type" value="open_ended" onclick="hideAnswers()"><i> Open Ended </i>
+	<br>
+	<table>
+		<tr>
+			<td><p>Write the question here: </p><input type="textfield" name="question" value=""><br></td>
+		</tr>
+		<button id="open_submit" type="submit" name="submit" class="btn btn-default" hidden>Submit!</button>
+		<tr>
+			<td id="ans_1"><p>First answer:</p><input type="textfield" name="ans_1" value=""></td>
+		</tr>
+		<tr>
+			<td id="ans_2"><p>Second answer:</p><input type="textfield" name="ans_2" value=""></td>
+		</tr>
+		<tr>
+			<td id="ans_3"><p>Third answer:</p><input type="textfield" name="ans_3" value=""></td>
+		</tr>
+		<tr>
+			<td id="ans_4"><p>Fourth answer:</p><input type="textfield" name="ans_4" value=""></td>
+		</tr>
+	</table>
+	<br>
+	<button id="mc_submit" type="submit" name="submit" class="btn btn-default">Submit!</button>
+</form>
+
+<script>
+	function hideAnswers() {
+		document.getElementById("ans_1").style.display = "none";
+		document.getElementById("ans_2").style.display = "none";
+		document.getElementById("ans_3").style.display = "none";
+		document.getElementById("ans_4").style.display = "none";
+		document.getElementById("open_submit").style.display = "none";
+	}
+
+	function showAnswers() {
+		document.getElementById("ans_1").style.display = "block";
+		document.getElementById("ans_2").style.display = "block";
+		document.getElementById("ans_3").style.display = "block";
+		document.getElementById("ans_4").style.display = "block";
+		document.getElementById("mc_submit").style.display = "block";
+	}
+
+</script>
+
+{% endblock %}

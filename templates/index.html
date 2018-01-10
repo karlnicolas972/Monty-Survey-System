@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block content %}
+
+	<div class="content-wrapper index-content col-md-8 col-sm-10">
+		<h1> Welcome, {{ user.get_user_type() }}! </h1>
+		{% with messages = get_flashed_messages() %}
+		{% if messages %}
+			{% for message in messages %}
+				<span style="padding-bottom: 30px"><b><i class="text-warning">{{ message }}</i></b></span>
+			{% endfor %}
+		{% endif %}
+		{% endwith %}
+	<br>
+
+	<!-- Student -->
+	{% if user.is_student() %}
+
+		{% if closed_surveys|count != 0 %}
+			<b>Survey results for surveys you have filled out:</b>
+			<ol>
+				{% for s in closed_surveys %}
+					<li><a href="{{ url_for('survey_chart', id_num=s.get_survey_id()) }}">Results for {{ s.get_course_str() }}</a></li>
+					<br>
+				{% endfor %}
+			</ol>
+		{% endif %}
+
+		<b>Here are the surveys currently available to be filled out:</b>
+		{% if surveys|count != 0 %}
+			<ol>
+				{% for s in surveys %}
+					<li><a href="{{ url_for('survey', id_num=s.get_survey_id()) }}">Survey for {{ s.get_course_str() }}</a></li>
+					<br>
+				{% endfor %}
+			</ol>
+
+		{% else %}
+			<p>There are currently no surveys available to be filled out. </p>
+		{% endif %}
+
+		<!-- Staff -->
+		{% elif user.is_staff() %}
+		{% if closed_surveys|count != 0 %}
+			<b>Survey results for courses that you are a staff in:</b>
+			<ol>
+				{% for s in closed_surveys %}
+					<li><a href="{{ url_for('survey_chart', id_num=s.get_survey_id()) }}">Results for {{ s.get_course_str() }}</a></li>
+					<br>
+				{% endfor %}
+			</ol>
+		{% endif %}
+		<b>Here are the surveys that needs to be reviewed:</b>
+		{% if surveys|count != 0 %}
+			<ol>
+				{% for s in surveys %}
+					<li><a href="{{ url_for('review_survey', id_num=s.get_survey_id()) }}">Survey for {{ s.get_course_str() }}</a></li>
+					<br>
+				{% endfor %}
+			</ol>
+		{% else %}
+			<p>There are currently no surveys that need reviewing. </p>
+		{% endif %}
+
+		{% else %} <!--i.e. admin -->
+		<p style="text-align: center;">This is a survey system developed to gauge course effectiveness and engagement.<br><br> To get started, use the links above.</p>
+	{% endif %}
+
+	</div> <!--content-wrapper-->
+
+{% endblock %}

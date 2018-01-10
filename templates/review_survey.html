@@ -1,0 +1,142 @@
+{% extends "base.html" %} {% block content %}
+
+<link rel="stylesheet" href="../static/main.css">
+
+<div class="content-wrapper col-md-8 col-sm-10">
+
+<h1>{{ title }}</h1>
+
+{% with messages = get_flashed_messages() %}
+	{% if messages %}
+		{% for message in messages %}
+			<span style="padding-bottom: 30px"><b><i>{{ message }}</i></b></span>
+		{% endfor %}
+	{% endif %}
+{% endwith %}
+
+<!-- <h2>Current Survey Questions</h2> -->
+
+<b class="text-warning">The survey currently contains the following questions: (* = mandatory question)</b>
+
+<br>
+
+{% if survey_open_question_list %}
+<h3 style="padding-top: 40px">Open Ended Questions</h3>
+		<ol>
+		{% for q in survey_open_question_list %}
+			<li>
+				<b><span style="padding: 20px">{{ q.get_question() }}{% if q.is_mandatory() %} * {% endif %}</span></b>
+				<br>
+				<span style="padding: 20px">
+					<div class="input-group">
+						<input type="text" class="form-control" name="answer_{{ q.get_question_id() }}" value="" disabled>
+					</div>
+				</span>
+				<br>
+			</li>
+		{% endfor %}	
+		</ol>
+{% endif %}
+
+{% if survey_mc_question_list %}
+
+<h3>Multiple Choice Questions</h3>
+	<ol>
+		{% for q in survey_mc_question_list %}
+			<li><span style="padding: 20px"><b>{{ q.get_question() }}{% if q.is_mandatory() %} * {% endif %}</span></b></li>
+			
+				<input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_1() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_1() }}</i></span><br>
+				<input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_2() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_2() }}</i></span><br>
+				<input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_3() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_3() }}</i></span><br>
+				<input type="radio" name="answer_{{ q.get_question_id() }}" value="{{ q.get_answer_4() }}" disabled><span style="padding: 20px"><i>{{ q.get_answer_4() }}</i></span><br><br>
+		{% endfor %}
+	</ol>
+{% endif %}
+
+<hr>
+
+<p>
+	As a staff member for this course, you can add optional questions to this survey. To add an optional question, simply click the tick box associated with the question you wish to add. Regardless of whether you add a question or not, click the "Approve Survey!" button below to approve that this survey is past the review stage.
+</p>
+
+<h2>Remaining Questions</h2>
+
+<form name="add_questions_to_survey_form" id="add_questions_to_survey" method="POST">
+
+	<input type="hidden" id="selected_questions" name="selected_questions" value="">
+
+	<h3>Open Ended Questions</h3>
+
+	<br>
+
+	{% if remaining_open_question_list %}
+
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th>Question</th>
+					<th>Question Type</th>
+					<th>Add to survey?</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for q in remaining_open_question_list %}
+				<tr>
+					<td><label for="q">{{ q.get_question() }}</label></td>
+					<td><p class="capitalize" style="text-transform: capitalize;">{{ q.get_question_type() }}</p></td>
+					<td><input type="checkbox" id="question_{{ q.get_question_id() }}" name="question_{{ q.get_question_id() }}" onclick="document.add_questions_to_survey_form.selected_questions.value+=' {{ q.get_question_id() }} '" value="{{ q.get_question() }}"></td>
+				</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+
+	{% else %}
+
+	<p>This survey contains all the possible optional open ended questions.</p>
+
+	{% endif %}
+
+	<h3>Multiple Choice Questions</h3>
+
+	{% if remaining_mc_question_list %}
+
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th>Question</th>
+					<th>Question Type</th>
+					<th>Add to survey?</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				{% for q in remaining_mc_question_list %}
+			<tr>
+			<td><label for="q"><b>{{ q.get_question() }}</b></label>
+				<ul style="list-style-type: none; padding-left: 0px;">
+					<li>a) {{ q.get_answer_1() }}</li>
+					<li>b) {{ q.get_answer_2() }}</li>
+					<li>c) {{ q.get_answer_3() }}</li>
+					<li>d) {{ q.get_answer_4() }}</li>
+				</ul>
+			</td>
+			<td><p class="capitalize" style="text-transform: capitalize;">{{ q.get_question_type() }}</p></td>
+			<td><input type="checkbox" id="question_{{ q.get_question_id() }}" name="question_{{ q.get_question_id() }}" onclick="document.add_questions_to_survey_form.selected_questions.value+=' {{ q.get_question_id() }} '" value="{{ q.get_question() }}"></td>
+			</tr>
+			{% endfor %}
+	  		</tbody>
+		</table>
+
+	{% else %}
+
+		<p> This survey contains all the possible optional multiple choice questions.</p>
+
+	{% endif %}
+
+	<button type="submit" value="Approve Survey!" class="submit-btn btn btn-default">Approve Survey!</button>
+
+</form>
+
+</div> <!--content-wrapper-->
+
+{% endblock %}

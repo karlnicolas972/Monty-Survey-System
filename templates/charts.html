@@ -1,0 +1,23 @@
+{% extends "base.html" %} {% block content %}
+
+    <div class="content-wrapper col-md-8 col-sm-10">
+        <h1> Results of Surveys </h1>
+
+        {% if survey_list %}
+            <p>Click on a survey to view stats for that survey</p>
+            <div class="list-group">
+                {% for s in survey_list %}
+                    <div id="{{ s.get_survey_id() }}" class="list-group-item">
+                        <a href="{{ url_for('survey_chart', id_num=s.get_survey_id()) }}" style="float: left;">Survey for {{ s.get_course_str() }}</a>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            
+            <p style="text-align: center;">You currently don't have any surveys created. Click <a href="{{ url_for('view_questions') }}">here</a> to get started.</p>
+            
+        {% endif %}
+        <br><br>
+    </div> <!-- content-wrapper -->
+
+{% endblock %}

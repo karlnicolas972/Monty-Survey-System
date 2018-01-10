@@ -1,0 +1,23 @@
+<html>
+	<head>
+		{% if title %}
+		<title>{{ title }} - Monty Survey System</title>
+		{% else %}
+		<title>Welcome to Monty Survey System!</title>
+		{% endif %}
+		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+		<link rel="stylesheet" href="static/main.css">
+	</head>
+	<body>
+		<div class="container">
+			<br><br>
+			{% block title %}401: Unauthorized{% endblock %}
+			{% block body %}
+  				<h1>I'm sorry, Dave. I'm afraid I can't do that.</h1>
+  				<p>The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.<p><a href="{{ url_for('login') }}">Back to earth</a>
+			{% endblock %}
+		</div>
+	</body>
+</html>
+

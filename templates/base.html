@@ -1,0 +1,36 @@
+<html>
+	<head>
+		{% if title %}
+		<title>{{ title }} - Monty Survey System</title>
+		{% else %}
+		<title>Welcome to Monty Survey System!</title>
+		{% endif %}
+		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+		<script src="static/Chart.js"></script>
+		<script src="https://use.fontawesome.com/6768541de0.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+		<link rel="stylesheet" href="static/main.css">
+		<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+	</head>
+	<body>
+		<div class="container">
+		<nav id="montynav" class="navbar">
+			
+				<a id="monty-brand" class = "navbar-brand" href = "{{ url_for('index') }}">Monty Survey System</a>
+
+     	 		<ul class="nav nav-pills">
+					{% if user.is_admin() %}
+					<li class="nav-item"><a href="{{ url_for('view_charts') }}"><span class="fa fa-pie-chart"></span> Charts</a></li> |
+					<li class="nav-item"><a href="{{ url_for('view_surveys') }}"><span class="fa fa-files-o"></span> Surveys</a></li> |
+					<li class="nav-item"><a href="{{ url_for('view_questions') }}"><span class="fa fa-file-text-o"></span> New Survey</a></li> |
+					<li class="nav-item"><a href="{{ url_for('add_question') }}"><span class="fa fa-pencil"></span> Add Question</a></li> |
+					{% endif %}
+					<li class="nav-item"> <a id="logout-btn" type="submit" href="{{ url_for('logout') }}"><span class="fa fa-sign-out"></span> Logout</a></li>
+				</ul>
+		</nav>
+		<hr>
+			
+			{% block content %}{% endblock %}
+		</div> <!--container (this is a bootstrap thing which just makes everything look good and work)-->
+	</body>
+</html>
